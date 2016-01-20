@@ -34,5 +34,23 @@
         "j": 6.54e-05, 
         "j_err": 1.307e-07, 
         "position": 16
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 6.54e-05, 
+        "j_err": 1.307e-07, 
+        "position": 2
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 6.54e-05, 
+        "j_err": 1.307e-07, 
+        "position": 3
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 6.54e-05, 
+        "j_err": 1.307e-07, 
+        "position": 1
     }
 ]
