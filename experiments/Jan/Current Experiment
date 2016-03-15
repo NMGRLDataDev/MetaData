@@ -1,0 +1,33 @@
+/Users/ross/Pychron_dev/experiments/Current Experiment.txt
+
+username: jake
+use_email: True
+email:
+use_group_email: True
+date: 2015-09-23 14:22:22.208157
+queue_conditionals_name: normal
+mass_spectrometer: Jan
+delay_before_analyses: 1
+delay_between_analyses: 3
+extract_device: Extract Device
+tray:
+load: 4
+#================================================================================
+labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	experiment_identifier
+19211	FC-2				1.0	1.0				pause			td												Irradiation-NM-260
+19211	FC-2				1.0	1.0				pause			td												Irradiation-NM-260
+19211	FC-2				1.0	1.0				pause			td												Irradiation-NM-260
+#19211	FC-2				1.0	1.0				pause			td												Irradiation-NM-260
+#19211	FC-2				1.0	1.0				pause			td												Irradiation-NM-260
+#19211					11.0	1.0				test_duration			td
+#19211					1.0	1.0				test_duration			fast_whiff
+#19211			11.0		1.0	5.0				test_duration			peak_hop	foo
+#19212			11.0		1.0	5.0				test_duration			unknown
+#19211			11.0		1.0	5.0				test_duration			unknown
+#19212			121.0		1.0	5.0				test_duration			unknown
+#19212			11.0		1.0	5.0				test_duration			unknown
+#19211			11.0		1.0	5.0				test_duration			unknown
+#ic-01-J					1.0	1.0				test_duration			unknown
+#19212			11.0		1.0	5.0				test_duration			unknown
+#19211			11.0		1.0	5.0				test_duration			unknown
+#23446			11.0		1.0	100.0				test_duration				Ar40>0,5
