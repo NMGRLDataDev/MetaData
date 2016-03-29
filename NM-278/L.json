@@ -28,5 +28,17 @@
         "j": 8.4e-05, 
         "j_err": 1e-08, 
         "position": 11
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 8.4e-05, 
+        "j_err": 1e-08, 
+        "position": 3
+    }, 
+    {
+        "decay_constants": {}, 
+        "j": 8.4e-05, 
+        "j_err": 1e-08, 
+        "position": 4
     }
 ]
