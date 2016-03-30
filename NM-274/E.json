@@ -1,6 +1,11 @@
 [
     {
-        "decay_constants": {}, 
+        "analyses": [], 
+        "decay_constants": {
+            "lambda_k_total": 5.543e-10, 
+            "lambda_k_total_error": 9.436630754670864e-13
+        }, 
+        "identifier": "63457", 
         "j": 8.4e-05, 
         "j_err": 1.307e-07, 
         "position": 3

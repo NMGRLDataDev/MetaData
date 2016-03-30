@@ -36,19 +36,34 @@
         "position": 16
     }, 
     {
-        "decay_constants": {}, 
+        "analyses": [], 
+        "decay_constants": {
+            "lambda_k_total": 5.543e-10, 
+            "lambda_k_total_error": 9.436630754670864e-13
+        }, 
+        "identifier": "63472", 
         "j": 6.54e-05, 
         "j_err": 1.307e-07, 
         "position": 2
     }, 
     {
-        "decay_constants": {}, 
+        "analyses": [], 
+        "decay_constants": {
+            "lambda_k_total": 5.543e-10, 
+            "lambda_k_total_error": 9.436630754670864e-13
+        }, 
+        "identifier": "63473", 
         "j": 6.54e-05, 
         "j_err": 1.307e-07, 
         "position": 3
     }, 
     {
-        "decay_constants": {}, 
+        "analyses": [], 
+        "decay_constants": {
+            "lambda_k_total": 5.543e-10, 
+            "lambda_k_total_error": 9.436630754670864e-13
+        }, 
+        "identifier": "63471", 
         "j": 6.54e-05, 
         "j_err": 1.307e-07, 
         "position": 1

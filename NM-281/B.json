@@ -1,14 +1,35 @@
 [
     {
-        "decay_constants": {}, 
+        "analyses": [], 
+        "decay_constants": {
+            "lambda_k_total": 5.543e-10, 
+            "lambda_k_total_error": 9.436630754670864e-13
+        }, 
+        "identifier": "64109", 
+        "j": 0.000127, 
+        "j_err": 1.7427e-07, 
         "position": 1
     }, 
     {
-        "decay_constants": {}, 
+        "analyses": [], 
+        "decay_constants": {
+            "lambda_k_total": 5.543e-10, 
+            "lambda_k_total_error": 9.436630754670864e-13
+        }, 
+        "identifier": "64110", 
+        "j": 0.000127, 
+        "j_err": 1.7427e-07, 
         "position": 2
     }, 
     {
-        "decay_constants": {}, 
+        "analyses": [], 
+        "decay_constants": {
+            "lambda_k_total": 5.543e-10, 
+            "lambda_k_total_error": 9.436630754670864e-13
+        }, 
+        "identifier": "64111", 
+        "j": 0.000127, 
+        "j_err": 1.7427e-07, 
         "position": 3
     }, 
     {

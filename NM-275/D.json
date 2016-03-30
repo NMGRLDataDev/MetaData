@@ -1,12 +1,22 @@
 [
     {
-        "decay_constants": {}, 
+        "analyses": [], 
+        "decay_constants": {
+            "lambda_k_total": 5.543e-10, 
+            "lambda_k_total_error": 9.436630754670864e-13
+        }, 
+        "identifier": "63547", 
         "j": 0.002, 
         "j_err": 1.307e-07, 
         "position": 10
     }, 
     {
-        "decay_constants": {}, 
+        "analyses": [], 
+        "decay_constants": {
+            "lambda_k_total": 5.543e-10, 
+            "lambda_k_total_error": 9.436630754670864e-13
+        }, 
+        "identifier": "63546", 
         "j": 0.002, 
         "j_err": 1.307e-07, 
         "position": 9
