@@ -1,0 +1,66 @@
+[
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64153, 
+        "j": null, 
+        "j_err": null, 
+        "position": 1
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64154, 
+        "j": null, 
+        "j_err": null, 
+        "position": 2
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24803, 
+        "j": null, 
+        "j_err": null, 
+        "position": 7
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24804, 
+        "j": null, 
+        "j_err": null, 
+        "position": 8
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24805, 
+        "j": null, 
+        "j_err": null, 
+        "position": 9
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24806, 
+        "j": null, 
+        "j_err": null, 
+        "position": 10
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24807, 
+        "j": null, 
+        "j_err": null, 
+        "position": 11
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24808, 
+        "j": null, 
+        "j_err": null, 
+        "position": 12
+    }
+]

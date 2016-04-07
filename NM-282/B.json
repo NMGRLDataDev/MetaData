@@ -1,0 +1,98 @@
+[
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64147, 
+        "j": null, 
+        "j_err": null, 
+        "position": 1
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64148, 
+        "j": null, 
+        "j_err": null, 
+        "position": 2
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64149, 
+        "j": null, 
+        "j_err": null, 
+        "position": 3
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64150, 
+        "j": null, 
+        "j_err": null, 
+        "position": 4
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64151, 
+        "j": null, 
+        "j_err": null, 
+        "position": 5
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64152, 
+        "j": null, 
+        "j_err": null, 
+        "position": 6
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24797, 
+        "j": null, 
+        "j_err": null, 
+        "position": 7
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24798, 
+        "j": null, 
+        "j_err": null, 
+        "position": 8
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24799, 
+        "j": null, 
+        "j_err": null, 
+        "position": 9
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24800, 
+        "j": null, 
+        "j_err": null, 
+        "position": 10
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24801, 
+        "j": null, 
+        "j_err": null, 
+        "position": 11
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24802, 
+        "j": null, 
+        "j_err": null, 
+        "position": 12
+    }
+]
