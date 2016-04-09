@@ -1,0 +1,66 @@
+[
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64094, 
+        "j": 0.0146, 
+        "j_err": 8.3648e-06, 
+        "position": 1
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64095, 
+        "j": 0.0146, 
+        "j_err": 8.3648e-06, 
+        "position": 2
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64096, 
+        "j": 0.0146, 
+        "j_err": 8.3648e-06, 
+        "position": 3
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64097, 
+        "j": 0.0146, 
+        "j_err": 8.3648e-06, 
+        "position": 4
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24737, 
+        "j": 0.0146, 
+        "j_err": 8.3648e-06, 
+        "position": 7
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24738, 
+        "j": 0.0146, 
+        "j_err": 8.3648e-06, 
+        "position": 8
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24739, 
+        "j": 0.0146, 
+        "j_err": 8.3648e-06, 
+        "position": 9
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24740, 
+        "j": 0.0146, 
+        "j_err": 8.3648e-06, 
+        "position": 10
+    }
+]

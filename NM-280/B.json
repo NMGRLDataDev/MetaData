@@ -1,0 +1,162 @@
+[
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64056, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 1
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64057, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 2
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64058, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 3
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64059, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 4
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64060, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 6
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64062, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 7
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64063, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 8
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 64064, 
+        "j": 0.0192, 
+        "j_err": 9.8e-07, 
+        "position": 9
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 4409, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 10
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 4410, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 11
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 4411, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 12
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 4412, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 13
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24699, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 17
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24700, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 18
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24701, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 19
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24702, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 20
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24703, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 21
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24704, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 22
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24705, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 23
+    }, 
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": 24706, 
+        "j": 0.0146, 
+        "j_err": 9.8e-07, 
+        "position": 24
+    }
+]
