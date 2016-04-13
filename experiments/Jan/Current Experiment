@@ -4,7 +4,7 @@ username: ASmith
 use_email: True
 email: asmith00@nmt.edu
 use_group_email: False
-date: 2016-04-13 14:26:24.787211
+date: 2016-04-13 17:20:32.792065
 queue_conditionals_name: 
 mass_spectrometer: Jan
 delay_before_analyses: 5
@@ -14,10 +14,6 @@ tray:
 load: 1702
 #================================================================================
 labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	repository_identifier
-ba-01-J	blank_air	6			30.0	30.0				sniffair_x1			unknown600_180				pump_ms	pump_extraction_line							Irradiation-NM-282
-a-01-J	air									sniffair_x1			unknown600_180				pump_ms	pump_extraction_line							Irradiation-NM-282
-a-01-J	air									sniffair_x1			unknown600_180				pump_ms	pump_extraction_line							Irradiation-NM-282
-a-01-J	air									cocktail_x1			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
 c-01-J	cocktail									cocktail_x1			unknown400_120				pump_ms	pump_extraction_line				Cocktail pumped out twice			Irradiation-NM-282
 bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
 a-01-J	air									sniffair_x1			unknown600_180				pump_ms	pump_extraction_line						3.0	Irradiation-NM-282
