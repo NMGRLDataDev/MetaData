@@ -4,7 +4,7 @@ username: MHeizler
 use_email: True
 email: matt@nmt.edu
 use_group_email: False
-date: 2016-04-14 12:12:47.280309
+date: 2016-04-14 12:46:44.844952
 queue_conditionals_name: 
 mass_spectrometer: Felix
 delay_before_analyses: 5
@@ -14,4 +14,12 @@ tray:
 load: 1703
 #================================================================================
 labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	repository_identifier
-63501-02	H14-70	36	0.5	watts	40.0	60.0		3.0		diode			analysis400_120				pump_ms	pump_extraction_line				B:4 biotite, 2.87 mg			Henry
+63501-02	H14-70	36	1.0	watts	40.0	60.0		3.0		diode			analysis120_60				pump_ms	pump_extraction_line				B:4 biotite, 2.87 mg			Henry
+63501-02	H14-70	36	2.0	watts	40.0	60.0		3.0		diode			analysis120_60				pump_ms	pump_extraction_line				B:4 biotite, 2.87 mg			Henry
+63501-02	H14-70	36	3.0	watts	40.0	60.0		3.0		diode			analysis120_60				pump_ms	pump_extraction_line				B:4 biotite, 2.87 mg			Henry
+63501-02	H14-70	36	4.0	watts	40.0	60.0		3.0		diode			analysis120_60				pump_ms	pump_extraction_line				B:4 biotite, 2.87 mg			Henry
+63501-02	H14-70	36	5.0	watts	40.0	60.0		3.0		diode			analysis120_60				pump_ms	pump_extraction_line				B:4 biotite, 2.87 mg			Henry
+63501-02	H14-70	36	6.0	watts	40.0	60.0		3.0		diode			analysis120_60				pump_ms	pump_extraction_line				B:4 biotite, 2.87 mg			Henry
+63501-02	H14-70	36	8.0	watts	40.0	60.0		3.0		diode			analysis120_60				pump_ms	pump_extraction_line				B:4 biotite, 2.87 mg			Henry
+63501-02	H14-70	36	10.0	watts	40.0	60.0		3.0		diode			analysis120_60				pump_ms	pump_extraction_line				B:4 biotite, 2.87 mg			Henry
+63501-02	H14-70	36	15.0	watts	40.0	60.0		3.0		diode			analysis120_60				pump_ms	pump_extraction_line				B:4 biotite, 2.87 mg			Henry
