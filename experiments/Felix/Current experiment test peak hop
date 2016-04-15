@@ -4,14 +4,20 @@ username: MHeizler
 use_email: True
 email: matt@nmt.edu
 use_group_email: False
-date: 2016-04-14 21:50:17.708840
+date: 2016-04-15 10:48:03.491694
 queue_conditionals_name: 
 mass_spectrometer: Felix
 delay_before_analyses: 5
 delay_between_analyses: 90
-extract_device: Fusions Diode
+extract_device: Extract Device
 tray: 
 load: 1703
 #================================================================================
 labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	repository_identifier
-bu-FD-F	blank_unknown				30.0	30.0							peak_hop_nocenter				pump_ms	pump_extraction_line							
+a-01-F	air									air_x2			peak_hop_nocenter				pump_ms	pump_extraction_line							laboratory
+ba-01-F	blank_air									air_x2			peak_hop_nocenter				pump_ms	pump_extraction_line							laboratory
+a-01-F	air									air_x2			peak_hop_nocenter				pump_ms	pump_extraction_line							laboratory
+a-01-F	air									air_x2			peak_hop_nocenter				pump_ms	pump_extraction_line							laboratory
+a-01-F	air									air_x2			peak_hop_nocenter				pump_ms	pump_extraction_line							laboratory
+a-01-F	air									air_x2			peak_hop_nocenter				pump_ms	pump_extraction_line							laboratory
+a-01-F	air									air_x2			peak_hop_nocenter				pump_ms	pump_extraction_line							laboratory
