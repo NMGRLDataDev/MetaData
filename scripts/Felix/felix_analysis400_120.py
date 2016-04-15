@@ -21,11 +21,12 @@ multicollect:
 peakcenter:
   after: true
   before: false
-  detector: L2(CDD)
+  detector: H2
   detectors:
-  - H2
+  - H1
+  - AX
   - L2(CDD)
-  isotope: Ar36
+  isotope: Ar40
   integration_time: 0.524288
 peakhop:
   hops_name: ''
