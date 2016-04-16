@@ -4,7 +4,7 @@ username: ASmith
 use_email: True
 email: asmith00@nmt.edu
 use_group_email: False
-date: 2016-04-16 16:41:54.306460
+date: 2016-04-16 17:00:22.003843
 queue_conditionals_name: 
 mass_spectrometer: Jan
 delay_before_analyses: 5
@@ -14,7 +14,6 @@ tray:
 load: 1702
 #================================================================================
 labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	repository_identifier
-24701	FC-2	183	3.0	watts	30.0	30.0		1.0	triangle.lp	co2			unknown400_120				pump_ms	pump_extraction_line				B:19			Irradiation-NM-280
 24701	FC-2	184	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line				B:19			Irradiation-NM-280
 24701	FC-2	185	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line				B:19			Irradiation-NM-280
 bu-FC-J	blank_unknown				30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-280
