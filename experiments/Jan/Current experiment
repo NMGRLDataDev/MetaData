@@ -4,7 +4,7 @@ username: ASmith
 use_email: True
 email: asmith00@nmt.edu
 use_group_email: False
-date: 2016-04-14 15:48:11.135857
+date: 2016-04-16 07:40:24.640050
 queue_conditionals_name: 
 mass_spectrometer: Jan
 delay_before_analyses: 5
@@ -14,109 +14,10 @@ tray:
 load: 1702
 #================================================================================
 labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	repository_identifier
-24802	FC-2	68	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24802	FC-2	69	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24802	FC-2	70	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24802	FC-2	71	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24802	FC-2	72	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-a-01-J	air									sniffair_x1			unknown600_180				pump_ms	pump_extraction_line						3.0	Irradiation-NM-282
-24803	FC-2	73	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24803	FC-2	74	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24803	FC-2	75	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24803	FC-2	76	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24803	FC-2	77	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24803	FC-2	78	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24804	FC-2	79	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24804	FC-2	80	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24804	FC-2	81	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24804	FC-2	82	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24804	FC-2	83	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24804	FC-2	84	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-a-01-J	air									sniffair_x1			unknown600_180				pump_ms	pump_extraction_line						3.0	Irradiation-NM-282
-24805	FC-2	85	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24805	FC-2	86	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24805	FC-2	87	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24805	FC-2	88	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24805	FC-2	89	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24805	FC-2	90	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24806	FC-2	91	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24806	FC-2	92	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24806	FC-2	93	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24806	FC-2	94	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24806	FC-2	95	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24806	FC-2	96	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-a-01-J	air									sniffair_x1			unknown600_180				pump_ms	pump_extraction_line						3.0	Irradiation-NM-282
-24807	FC-2	97	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24807	FC-2	98	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24807	FC-2	99	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24807	FC-2	100	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24807	FC-2	101	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24807	FC-2	102	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24808	FC-2	103	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24808	FC-2	104	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24808	FC-2	105	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24808	FC-2	106	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24808	FC-2	107	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24808	FC-2	108	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-a-01-J	air									sniffair_x1			unknown600_180				pump_ms	pump_extraction_line						3.0	Irradiation-NM-282
-24809	FC-2	109	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24809	FC-2	110	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24809	FC-2	111	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24809	FC-2	112	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24809	FC-2	113	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24809	FC-2	114	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24810	FC-2	115	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24810	FC-2	116	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24810	FC-2	117	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24810	FC-2	118	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24810	FC-2	119	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24810	FC-2	120	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-a-01-J	air									sniffair_x1			unknown600_180				pump_ms	pump_extraction_line						3.0	Irradiation-NM-282
-24811	FC-2	121	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24811	FC-2	122	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24811	FC-2	123	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24811	FC-2	124	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24811	FC-2	125	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24811	FC-2	126	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24812	FC-2	127	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24812	FC-2	128	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24812	FC-2	129	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24812	FC-2	130	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24812	FC-2	131	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24812	FC-2	132	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-a-01-J	air									sniffair_x1			unknown600_180				pump_ms	pump_extraction_line						3.0	Irradiation-NM-282
-24813	FC-2	133	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24813	FC-2	134	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24813	FC-2	135	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24813	FC-2	136	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24813	FC-2	137	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24813	FC-2	138	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24814	FC-2	139	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24814	FC-2	140	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
-24814	FC-2	141	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24814	FC-2	142	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24814	FC-2	143	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-24814	FC-2	144	3.0	watts	30.0	30.0		1.0		co2			unknown400_120				pump_ms	pump_extraction_line							Irradiation-NM-282
-bu-FC-J	blank_unknown	1			30.0	30.0				co2			unknown400_120				pump_ms	pump_extraction_line						1.0	Irradiation-NM-282
+bc-01-J	blank_cocktail									cocktail_x3			unknown400_120				pump_ms	pump_extraction_line				3x cocktails			
+c-01-J	cocktail									cocktail_x3			unknown400_120				pump_ms	pump_extraction_line				3x cocktails			
+c-01-J	cocktail									cocktail_x3			unknown400_120				pump_ms	pump_extraction_line				3x cocktails			
+c-01-J	cocktail									cocktail_x3			unknown400_120				pump_ms	pump_extraction_line				3x cocktails			
 ba-01-J	blank_air	6			30.0	30.0				sniffair_x1			unknown600_180				pump_ms	pump_extraction_line							Irradiation-NM-282
 a-01-J	air									sniffair_x1			unknown600_180				pump_ms	pump_extraction_line							Irradiation-NM-282
 a-01-J	air									sniffair_x1			unknown600_180				pump_ms	pump_extraction_line							Irradiation-NM-282
