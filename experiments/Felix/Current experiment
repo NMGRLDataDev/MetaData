@@ -4,7 +4,7 @@ username: MHeizler
 use_email: True
 email: matt@nmt.edu
 use_group_email: False
-date: 2016-04-16 16:41:50.618180
+date: 2016-04-16 16:44:26.152741
 queue_conditionals_name: 
 mass_spectrometer: Felix
 delay_before_analyses: 5
@@ -14,7 +14,6 @@ tray:
 load: 1703
 #================================================================================
 labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	repository_identifier
-64066-01	Apollo 17 72215	3	10.0	watts	40.0	60.0		3.0		diode			peak_hop				pump_ms	pump_extraction_line			2.35	C:2 2.35mg			Lunar
 64066-01	Apollo 17 72215	3	15.0	watts	40.0	60.0		3.0		diode			peak_hop				pump_ms	pump_extraction_line			2.35	C:2 2.35mg			Lunar
 a-01-F	air									air_x2			peak_hop				pump_ms	pump_extraction_line			1.96				Lunar
 bu-FD-F	blank_unknown	5			40.0	60.0				diode			peak_hop				pump_ms	pump_extraction_line			3.3	C:3 3.3mg			Lunar
@@ -199,6 +198,7 @@ a-01-F	air									air_x2			peak_hop				pump_ms	pump_extraction_line			1.96				L
 64079-01	Apollo 15 15445	28	10.0	watts	40.0	60.0		3.0		diode			peak_hop				pump_ms	pump_extraction_line			3.1	D:7 3.1mg			Lunar
 64079-01	Apollo 15 15445	28	15.0	watts	40.0	60.0		3.0		diode			peak_hop				pump_ms	pump_extraction_line			3.1	D:7 3.1mg			Lunar
 a-01-F	air									air_x2			peak_hop				pump_ms	pump_extraction_line			1.96				Lunar
+ba-01-F	blank_air									air_x2			peak_hop				pump_ms	pump_extraction_line			1.96				
 a-01-F	air									air_x2			peak_hop				pump_ms	pump_extraction_line			1.96				Lunar
 a-01-F	air									air_x2			peak_hop				pump_ms	pump_extraction_line			1.96				Lunar
 a-01-F	air									air_x2			peak_hop				pump_ms	pump_extraction_line			1.96				Lunar
