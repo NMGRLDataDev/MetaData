@@ -4,7 +4,7 @@ username: MHeizler
 use_email: True
 email: matt@nmt.edu
 use_group_email: False
-date: 2016-04-16 09:58:40.526243
+date: 2016-04-16 10:13:19.284238
 queue_conditionals_name: 
 mass_spectrometer: Felix
 delay_before_analyses: 5
