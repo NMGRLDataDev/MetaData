@@ -4,7 +4,7 @@ username: root
 use_email: False
 email: 
 use_group_email: False
-date: 2016-04-18 11:42:36.284008
+date: 2016-04-18 12:18:22.106909
 queue_conditionals_name: 
 mass_spectrometer: Jan
 delay_before_analyses: 5
@@ -14,24 +14,10 @@ tray:
 load: 1702
 #================================================================================
 labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	repository_identifier
-64060-01	Lem-1B	172	0.12	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.14	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.16	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.18	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.19	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.2	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.21	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.22	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.23	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
 64060-01	Lem-1B	172	0.25	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.25	watts	60.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.27	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
 64060-01	Lem-1B	172	0.29	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.29	watts	60.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
 64060-01	Lem-1B	172	0.31	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.31	watts	60.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
 64060-01	Lem-1B	172	0.33	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
-64060-01	Lem-1B	172	0.35	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
 64060-01	Lem-1B	172	0.37	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
 64060-01	Lem-1B	172	0.39	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
 64060-01	Lem-1B	172	0.41	watts	30.0	60.0		1.2		co2			unknown120_60				pump_ms	pump_extraction_line				B:4 Feldspar fragment			K-metasomatism
