@@ -5,6 +5,7 @@
 eqtime: 28
 '''
 
+OFFSET = 200
 
 def main():
     start_response_recorder()
@@ -96,8 +97,8 @@ def do_extraction():
         sleep(2)
         complete_interval()
         
-        #extract(max(0, extract_value-OFFSET))
-        disable()
+        extract(max(0, extract_value-OFFSET))
+        #disable()
 
 #===============================================================================
 # POST EQUILIBRATION SCRIPT felix_pump_extraction_line.py
