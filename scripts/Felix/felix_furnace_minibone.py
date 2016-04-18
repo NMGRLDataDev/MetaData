@@ -97,8 +97,10 @@ def do_extraction():
         sleep(2)
         complete_interval()
         
-        extract(max(0, extract_value-OFFSET))
-        #disable()
+        if extract_value >= 1300:
+            disable()
+        else:
+            extract(max(0, extract_value-OFFSET))
 
 #===============================================================================
 # POST EQUILIBRATION SCRIPT felix_pump_extraction_line.py
