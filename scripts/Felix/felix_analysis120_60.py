@@ -26,7 +26,7 @@ peakcenter:
   - H1
   - L2(CDD)
   isotope: Ar40
-  integration_time: 0.524288
+  integration_time: 1.048576
 peakhop:
   hops_name: ''
   use_peak_hop: false
@@ -66,7 +66,7 @@ def main():
     set_baseline_fits()
     
     #multicollect on active detectors
-    multicollect(ncounts=mx.multicollect.counts, integration_time=0.524288)
+    multicollect(ncounts=mx.multicollect.counts, integration_time=1.048576)
     
     if mx.baseline.after:
         baselines(ncounts=mx.baseline.counts,mass=mx.baseline.mass, detector=mx.baseline.detector, 
