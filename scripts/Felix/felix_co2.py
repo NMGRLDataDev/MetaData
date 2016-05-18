@@ -2,7 +2,7 @@
 # EXTRACTION SCRIPT felix_co2.py
 #===============================================================================
 '''
-eqtime: 18
+eqtime: 20
 '''
 
 def main():
@@ -20,6 +20,7 @@ def main():
         '''
         close(description='Bone to Turbo')
         close('A')
+        close('C')
         open('F')
         numPositions=len(position)
         
