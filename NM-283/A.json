@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": "24826", 
+        "j": 0.00384, 
+        "j_err": 8.3648e-06, 
+        "position": 1
+    }
+]
