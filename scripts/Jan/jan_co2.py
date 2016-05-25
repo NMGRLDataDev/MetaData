@@ -32,7 +32,7 @@ def main():
             ''' 
             position the laser at pi, pi can be an holenumber or (x,y)
             '''
-            move_to_position(pi, autocenter=False)
+            move_to_position(pi, autocenter=True)
             if i==0:
                 sleep(5)
                 close(description='Microbone to Turbo')
