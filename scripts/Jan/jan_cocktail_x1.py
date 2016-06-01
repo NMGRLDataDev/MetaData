@@ -2,7 +2,7 @@
 # EXTRACTION SCRIPT jan_cocktail_x1.py
 #===============================================================================
 '''
-modifier: 01
+modifier: 02
 eqtime: 10
 '''
 def main():
@@ -13,7 +13,7 @@ def main():
     gosub('common:FillPipette1')
     gosub('jan:PrepareForAirShotExpansion')
     gosub('common:ExpandPipette1')
-    
+
 #===============================================================================
 # POST EQUILIBRATION SCRIPT jan_pump_extraction_line.py
 #===============================================================================
