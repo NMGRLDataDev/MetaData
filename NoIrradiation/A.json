@@ -266,7 +266,7 @@
     {
         "analyses": [], 
         "decay_constants": {}, 
-        "identifier": "", 
+        "identifier": "bc-02-J", 
         "j": 0, 
         "j_err": 0, 
         "position": 24
@@ -274,7 +274,7 @@
     {
         "analyses": [], 
         "decay_constants": {}, 
-        "identifier": "", 
+        "identifier": "bc-02-F", 
         "j": 0, 
         "j_err": 0, 
         "position": 25
