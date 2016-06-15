@@ -16,6 +16,7 @@ def main():
     gosub('common:FillPipette1')
     gosub('jan:PrepareForAirShotExpansion')
     gosub('common:ExpandPipette1')
+    sleep(1800)
 
 #===============================================================================
 # POST EQUILIBRATION SCRIPT jan_pump_extraction_line.py
