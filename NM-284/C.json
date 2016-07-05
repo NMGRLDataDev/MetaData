@@ -195,8 +195,8 @@
         "analyses": [], 
         "decay_constants": {}, 
         "identifier": "", 
-        "j": 0, 
-        "j_err": 0, 
+        "j": 0.03933, 
+        "j_err": 6.5e-07, 
         "position": 25
     }, 
     {
@@ -219,8 +219,8 @@
         "analyses": [], 
         "decay_constants": {}, 
         "identifier": "", 
-        "j": 0, 
-        "j_err": 0, 
+        "j": 0.03933, 
+        "j_err": 6.5e-07, 
         "position": 28
     }, 
     {
@@ -243,8 +243,8 @@
         "analyses": [], 
         "decay_constants": {}, 
         "identifier": "", 
-        "j": 0, 
-        "j_err": 0, 
+        "j": 0.03933, 
+        "j_err": 6.5e-07, 
         "position": 31
     }, 
     {
@@ -267,8 +267,8 @@
         "analyses": [], 
         "decay_constants": {}, 
         "identifier": "", 
-        "j": 0, 
-        "j_err": 0, 
+        "j": 0.03933, 
+        "j_err": 6.5e-07, 
         "position": 34
     }, 
     {
@@ -291,8 +291,8 @@
         "analyses": [], 
         "decay_constants": {}, 
         "identifier": "", 
-        "j": 0, 
-        "j_err": 0, 
+        "j": 0.03933, 
+        "j_err": 6.5e-07, 
         "position": 37
     }, 
     {
