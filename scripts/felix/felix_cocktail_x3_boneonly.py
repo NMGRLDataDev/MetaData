@@ -3,7 +3,7 @@
 #===============================================================================
 '''
 modifier: 02
-eqtime: 15
+eqtime: 22
 '''
 
 def main():
@@ -26,8 +26,8 @@ def main():
         gosub('common:ExpandPipette1')
         close(description='Outer Pipette 1')
         sleep(1)
-
-    close(name="E", description="Bone to Minibone")
+        close('E')
+        sleep(2)
     
 #===============================================================================
 # POST EQUILIBRATION SCRIPT felix_pump_extraction_line.py
