@@ -26,8 +26,9 @@ def main():
         gosub('common:ExpandPipette1')
         close(description='Outer Pipette 1')
         sleep(1)
-        close('E')
-        sleep(2)
+
+    close('E')
+    sleep(2)
     
 #===============================================================================
 # POST EQUILIBRATION SCRIPT felix_pump_extraction_line.py
