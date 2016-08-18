@@ -1,108 +1,125 @@
-[
-    {
-        "analyses": [], 
-        "decay_constants": {
-            "lambda_k_total": 5.543e-10, 
-            "lambda_k_total_error": 9.436630754670864e-13
+{
+    "positions": [
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "64101", 
+            "j": 0.00012767085536090244, 
+            "j_err": 7.296334432863902e-08, 
+            "position": 1
         }, 
-        "identifier": "64101", 
-        "j": 0.000127, 
-        "j_err": 1.742667e-07, 
-        "position": 1
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {
-            "lambda_k_total": 5.543e-10, 
-            "lambda_k_total_error": 9.436630754670864e-13
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "64102", 
+            "j": 0.00012761923752683206, 
+            "j_err": 7.296334432863927e-08, 
+            "position": 2
         }, 
-        "identifier": "64102", 
-        "j": 0.000127, 
-        "j_err": 1.742667e-07, 
-        "position": 2
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {
-            "lambda_k_total": 5.543e-10, 
-            "lambda_k_total_error": 9.436630754670864e-13
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "64103", 
+            "j": 0.00012765065412286995, 
+            "j_err": 7.296334432863927e-08, 
+            "position": 3
         }, 
-        "identifier": "64103", 
-        "j": 0.000127, 
-        "j_err": 1.742667e-07, 
-        "position": 3
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {
-            "lambda_k_total": 5.543e-10, 
-            "lambda_k_total_error": 9.436630754670864e-13
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "64104", 
+            "j": 0.0001277467199714069, 
+            "j_err": 7.296334432863901e-08, 
+            "position": 4
         }, 
-        "identifier": "64104", 
-        "j": 0.000127, 
-        "j_err": 1.742667e-07, 
-        "position": 4
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {
-            "lambda_k_total": 5.543e-10, 
-            "lambda_k_total_error": 9.436630754670864e-13
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "64105", 
+            "j": 0.00012785106240979422, 
+            "j_err": 7.296334432863892e-08, 
+            "position": 5
         }, 
-        "identifier": "64105", 
-        "j": 0.000127, 
-        "j_err": 1.742667e-07, 
-        "position": 5
-    }, 
-    {
-        "decay_constants": {}, 
-        "position": 6
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {
-            "lambda_k_total": 5.543e-10, 
-            "lambda_k_total_error": 9.436630754670864e-13
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "64106", 
+            "j": 0.0001279026802438646, 
+            "j_err": 7.296334432863906e-08, 
+            "position": 6
         }, 
-        "identifier": "64107", 
-        "j": 0.000127, 
-        "j_err": 1.742667e-07, 
-        "position": 7
-    }, 
-    {
-        "decay_constants": {}, 
-        "position": 8
-    }, 
-    {
-        "decay_constants": {}, 
-        "position": 9
-    }, 
-    {
-        "decay_constants": {}, 
-        "position": 10
-    }, 
-    {
-        "decay_constants": {}, 
-        "position": 11
-    }, 
-    {
-        "decay_constants": {}, 
-        "position": 12
-    }, 
-    {
-        "decay_constants": {}, 
-        "position": 13
-    }, 
-    {
-        "decay_constants": {}, 
-        "position": 14
-    }, 
-    {
-        "decay_constants": {}, 
-        "position": 15
-    }, 
-    {
-        "decay_constants": {}, 
-        "position": 16
-    }
-]
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "64107", 
+            "j": 0.0001278712636478267, 
+            "j_err": 7.296334432863909e-08, 
+            "position": 7
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "64108", 
+            "j": 0.00012777520355471172, 
+            "j_err": 7.296334432863897e-08, 
+            "position": 8
+        }, 
+        {
+            "decay_constants": {}, 
+            "position": 9
+        }, 
+        {
+            "decay_constants": {}, 
+            "position": 10
+        }, 
+        {
+            "decay_constants": {}, 
+            "position": 11
+        }, 
+        {
+            "decay_constants": {}, 
+            "position": 12
+        }, 
+        {
+            "decay_constants": {}, 
+            "position": 13
+        }, 
+        {
+            "decay_constants": {}, 
+            "position": 14
+        }, 
+        {
+            "decay_constants": {}, 
+            "position": 15
+        }, 
+        {
+            "decay_constants": {}, 
+            "position": 16
+        }
+    ], 
+    "z": 0
+}
