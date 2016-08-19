@@ -2,7 +2,7 @@
 # EXTRACTION SCRIPT jan_co2.py
 #===============================================================================
 '''
-eqtime: 12 
+eqtime: 12
 '''
 def main():
     info('Jan CO2 laser analysis')
@@ -19,7 +19,7 @@ def main():
         '''
         close(description='Microbone to Turbo')
         numPositions=len(position)
-        
+
         sleep(duration*max(1,numPositions))
     else:
 
@@ -27,26 +27,27 @@ def main():
         this is the most generic what to move and fire the laser
         position is always a list even if only one hole is specified
         '''
-        
+
         for i,pi in enumerate(position):
-            ''' 
+            '''
             position the laser at pi, pi can be an holenumber or (x,y)
             '''
             move_to_position(pi, autocenter=True)
             if i==0:
                 sleep(5)
                 close(description='Microbone to Turbo')
-                
+
             do_extraction()
             if disable_between_positions:
                 end_extract()
         end_extract()
         disable()
-        
+
     sleep(cleanup)
 
 
 def do_extraction():
+    info('enable laser')
     enable()
     if ramp_duration>0:
         '''
@@ -64,21 +65,20 @@ def do_extraction():
         sleep(max(0, duration-elapsed-pelapsed))
 
     else:
-                
-        
+
+        info('begin interval')
         begin_interval(duration)
-        
+
         info('set extract to {}'.format(extract_value))
         extract(extract_value)
         #sleep(2)
-    
+
         if pattern:
             info('executing pattern {}'.format(pattern))
             execute_pattern(pattern)
-        
+
         complete_interval()
-    
-    
+
 #===============================================================================
 # POST EQUILIBRATION SCRIPT jan_pump_extraction_line.py
 #===============================================================================
