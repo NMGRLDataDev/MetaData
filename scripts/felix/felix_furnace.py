@@ -2,10 +2,10 @@
 # EXTRACTION SCRIPT felix_furnace.py
 #===============================================================================
 '''
-eqtime: 15
+eqtime: 18
 '''
 
-OFFSET = 250
+
 
 def main():
     start_response_recorder()
@@ -92,11 +92,12 @@ def do_extraction():
         sleep(2)
         complete_interval()
         
-        if extract_value >= 100:
+        if extract_value >= 1200:
             disable()
+        elif extract_value >= 700:
+            extract(400)
         else:
-            extract(max(0, extract_value-OFFSET))
-
+            extract(300)
 #===============================================================================
 # POST EQUILIBRATION SCRIPT felix_pump_extraction_line.py
 #===============================================================================
