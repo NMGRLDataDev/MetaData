@@ -150,7 +150,8 @@
             "analyses": [], 
             "decay_constants": {}, 
             "identifier": "65181", 
-            "j": 6.7e-07, 
+            "j": 0.00295, 
+            "j_err": 6.7e-07, 
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 14
