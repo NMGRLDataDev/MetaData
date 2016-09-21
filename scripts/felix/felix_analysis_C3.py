@@ -20,7 +20,7 @@ multicollect:
   isotope: 3.77052
   use_dac: True
 peakcenter:
-  after: false
+  after: true
   before: false
   detector: H2
   detectors:
