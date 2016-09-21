@@ -17,7 +17,7 @@ equilibration:
 multicollect:
   counts: 400
   detector: AX
-  isotope: 3.77052
+  isotope: 3.7695
   use_dac: True
 peakcenter:
   after: true
