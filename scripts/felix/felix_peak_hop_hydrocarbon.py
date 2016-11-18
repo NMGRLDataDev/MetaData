@@ -58,7 +58,6 @@ def main():
     else:
         eqt = mx.equilibration.eqtime
 
-    eqt = 5 
     equilibrate(eqtime=eqt, inlet=mx.equilibration.inlet, outlet=mx.equilibration.outlet, 
                 delay=mx.equilibration.inlet_delay)
     set_time_zero(0)
