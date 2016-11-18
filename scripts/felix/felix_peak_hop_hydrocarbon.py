@@ -3,7 +3,7 @@
 baseline:
   after: true
   before: false
-  counts: 20
+  counts: 120
   detector: AX(CDD)
   mass: PHHCbs
   use_dac: false
@@ -31,7 +31,7 @@ peakcenter:
 peakhop:
   generate_ic_table: false
   hops_name: argonH.yaml
-  ncycles: 2
+  ncycles: 10
   use_peak_hop: true
 '''
 
