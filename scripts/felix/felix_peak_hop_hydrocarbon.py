@@ -83,6 +83,12 @@ def main():
         # multicollect on active detectors
         multicollect(ncounts=mx.multicollect.counts, integration_time=1)
    
+    set_deflection('H2 (CDD)', 0)
+    set_deflection('H1 (CDD)', 0)
+    set_deflection('AX (CDD)', 0)
+    set_deflection('L1 (CDD)', 0)
+    set_deflection('L2 (CDD)', 0)
+   
     if mx.baseline.after:
         # necessary if peak hopping
         define_detectors(mx.baseline.nominal_isotope,mx.baseline.detector)
