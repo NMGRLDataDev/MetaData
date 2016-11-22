@@ -1,21 +1,32 @@
 #===============================================================================
-# EXTRACTION SCRIPT felix_cocktail_x1.py
+# EXTRACTION SCRIPT felix_air_x3.py
 #===============================================================================
 '''
-modifier: 02
-eqtime: 30
+modifier: 01
+eqtime: 15
 '''
 
 def main():
-    info("Cocktail Pipette x1")
+    info("Air Pipette x3")
     gosub('felix:WaitForMiniboneAccess')
     gosub('felix:PrepareForAirShot')
-    gosub('common:EvacPipette1')
-    gosub('common:FillPipette1')
-    gosub('felix:PrepareForAirShotExpansion')
-    gosub('common:ExpandPipette1')
-    close(description='Outer Pipette 1')
     
+    #shot 1
+    gosub('common:EvacPipette2')
+    gosub('common:FillPipette2')
+    gosub('felix:PrepareForAirShotExpansion')
+    gosub('common:ExpandPipette2')
+    close(description='Outer Pipette 2')
+    sleep(1)
+    
+    #shots 2-3
+    for i in range(2):
+        info('Shot {}'.format(i+2))
+        gosub('common:FillPipette2')
+        gosub('common:ExpandPipette2')
+        close(description='Outer Pipette 2')
+        sleep(1)
+
 #===============================================================================
 # POST EQUILIBRATION SCRIPT felix_pump_extraction_line.py
 #===============================================================================
