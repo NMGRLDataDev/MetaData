@@ -23,12 +23,12 @@ multicollect:
 peakcenter:
   after: true
   before: false
-  detector: L2(CDD)
+  detector: H2
   detectors:
     - H2
     - L2(CDD)
   integration_time: 0.524288
-  isotope: Ar36
+  isotope: Ar40
 peakhop:
   generate_ic_table: false
   hops_name: argon_2CDD.yaml
