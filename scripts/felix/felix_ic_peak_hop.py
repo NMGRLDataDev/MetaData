@@ -36,7 +36,7 @@ BASELINE_FITS=('average_SEM',)
 USE_WARM_CDD=False
 
 NCYCLES=6
-GENERATE_ICMFTABLE=True
+GENERATE_ICMFTABLE=False
 
 def main():
     info('unknown measurement script')
