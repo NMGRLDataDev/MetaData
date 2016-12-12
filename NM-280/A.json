@@ -235,7 +235,7 @@
             "decay_constants": {}, 
             "identifier": "25268", 
             "j": 0.01, 
-            "j_err": 0, 
+            "j_err": 0.0, 
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 24
