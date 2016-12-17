@@ -11,13 +11,6 @@ BASELINE_BEFORE= False
 BASELINE_AFTER= True
 BASELINE_SETTLING_TIME= 10
 
-#peak center
-PEAK_CENTER_BEFORE= False
-PEAK_CENTER_AFTER= False
-PEAK_CENTER_DETECTOR= 'H1'
-PEAK_CENTER_ISOTOPE= 'Ar40'
-PEAK_DETECTORS= ('H1','AX','L2')
-
 #equilibration
 EQ_TIME= eqtime
 INLET= 'R'
@@ -25,13 +18,8 @@ OUTLET= 'O'
 EQ_DELAY= 3.0
 
 ACTIVE_DETECTORS = ('H1','AX','L2')
-#ACTIVE_DETECTORS=('H2','H1','AX','L1','L2','CDD')
-#FITS=('Ar40H1:parabolic','Ar40AX:parabolic','Ar40L1:parabolic','Ar40L2:parabolic')
-#FITS=('Ar40H2:parabolic','Ar40H1:parabolic','Ar40AX:parabolic','Ar40L1:parabolic','Ar40L2:parabolic')
 FITS = ('Ar40H1:parabolic','Ar40AX:parabolic','Ar40L2:parabolic')
-#('Ar41:average_SEM','Ar40:parabolic','Ar39:parabolic','Ar38:linear','Ar37:linear','Ar36:parabolic','Ar35:linear')
 BASELINE_FITS=('average_SEM',)
-USE_WARM_CDD=False
 
 NCYCLES=6
 GENERATE_ICMFTABLE=False
@@ -39,14 +27,8 @@ GENERATE_ICMFTABLE=False
 def main():
     info('unknown measurement script')
 
-    #activate_detectors(*ACTIVE_DETECTORS)
-
-    #if PEAK_CENTER_BEFORE:
-    #    peak_center(detector=PEAK_CENTER_DETECTOR,isotope=PEAK_CENTER_ISOTOPE)
-
-
-
-    #position_magnet('Ar40', detector='H1')
+    # protect the CDD
+    set_deflection('CDD', 2000)
 
     hops=load_hops('hops/ic3_hops.txt')
     info(hops)
@@ -66,12 +48,6 @@ def main():
 
     sleep(0.5)
 
-    #if BASELINE_BEFORE:
-    #    baselines(ncounts=BASELINE_COUNTS,mass=BASELINE_MASS, detector=BASELINE_DETECTOR,
-    #              settling_time=BASELINE_SETTLING_TIME)
-
-    #multicollect on active detectors
-    #multicollect(ncounts=MULTICOLLECT_COUNTS, integration_time=1)
     if GENERATE_ICMFTABLE:
         generate_ic_mftable(('H1','AX','L2'))
         set_time_zero()
@@ -86,11 +62,7 @@ def main():
 
         baselines(ncounts=BASELINE_COUNTS,mass=BASELINE_MASS, detector=BASELINE_DETECTOR,
                   settling_time=BASELINE_SETTLING_TIME)
-    if PEAK_CENTER_AFTER:
-        activate_detectors(*PEAK_DETECTORS, **{'peak_center':True})
-        peak_center(detector=PEAK_CENTER_DETECTOR, isotope=PEAK_CENTER_ISOTOPE)
-
-    if USE_WARM_CDD:
-       gosub('warm_cdd', argv=(OUTLET,))
+    # unprotect CDD
+    set_deflection('CDD', 50)
 
     info('finished measure script')
