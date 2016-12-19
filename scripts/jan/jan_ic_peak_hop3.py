@@ -28,7 +28,7 @@ def main():
     info('unknown measurement script')
 
     # protect the CDD
-    set_deflection('CDD', 2000)
+    #set_deflection('CDD', 2000)
 
     hops=load_hops('hops/ic3_hops.txt')
     info(hops)
@@ -63,6 +63,6 @@ def main():
         baselines(ncounts=BASELINE_COUNTS,mass=BASELINE_MASS, detector=BASELINE_DETECTOR,
                   settling_time=BASELINE_SETTLING_TIME)
     # unprotect CDD
-    set_deflection('CDD', 50)
+    #set_deflection('CDD', 50)
 
     info('finished measure script')
