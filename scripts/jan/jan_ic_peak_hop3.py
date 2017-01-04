@@ -29,8 +29,9 @@ def main():
 
     # protect the CDD
     #set_deflection('CDD', 2000)
-
-    hops=load_hops('hops/ic3_hops.txt')
+    activate_detectors(*ACTIVE_DETECTORS)
+    
+    hops=load_hops('hops/ic3_hops.yaml')
     info(hops)
     define_hops(hops)
     '''
