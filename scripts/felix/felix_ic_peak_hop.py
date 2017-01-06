@@ -75,7 +75,7 @@ def main():
     #multicollect on active detectors
     #multicollect(ncounts=MULTICOLLECT_COUNTS, integration_time=1)
     if GENERATE_ICMFTABLE:
-        generate_ic_mftable(('H2','H1','AX','L1'))
+        generate_ic_mftable(('H2','H1','AX','L1'), peak_center_config='ic_peakhop')
         set_time_zero()
 
     peak_hop(ncycles=NCYCLES, hops=hops, mftable='ic_mftable')
