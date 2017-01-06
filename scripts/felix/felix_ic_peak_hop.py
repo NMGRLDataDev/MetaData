@@ -19,8 +19,8 @@ PEAK_CENTER_ISOTOPE= 'Ar40'
 PEAK_DETECTORS= ('H1','AX','L2')
 
 #equilibration
-#EQ_TIME= eqtime
-EQ_TIME = 1
+EQ_TIME= eqtime
+#EQ_TIME = 1
 
 INLET= 'H'
 OUTLET= 'V'
