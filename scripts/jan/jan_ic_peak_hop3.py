@@ -22,7 +22,7 @@ FITS = ('Ar40H1:parabolic','Ar40AX:parabolic','Ar40L2:parabolic')
 BASELINE_FITS=('average_SEM',)
 
 NCYCLES=6
-GENERATE_ICMFTABLE=False
+GENERATE_ICMFTABLE=True
 
 def main():
     info('unknown measurement script')
