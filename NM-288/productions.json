@@ -1,13 +1,13 @@
 {
     "Q": "Triga", 
-    "Tray A": "", 
-    "Tray B": "", 
-    "Tray C": "", 
-    "Tray D": "", 
-    "Tray H": "", 
-    "Tray J": "", 
-    "Tray K": "", 
-    "Tray L": "", 
-    "Tray P": "", 
-    "Tray Q": ""
+    "A": "Triga", 
+    "B": "Triga", 
+    "C": "Triga", 
+    "D": "Triga", 
+    "H": "Triga", 
+    "J": "Triga", 
+    "K": "Triga", 
+    "L": "Triga", 
+    "P": "Triga", 
+    "Q": "Triga"
 }
