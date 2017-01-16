@@ -13,10 +13,10 @@ BASELINE_SETTLING_TIME= 10
 
 #peak center
 PEAK_CENTER_BEFORE= False
-PEAK_CENTER_AFTER= False
-PEAK_CENTER_DETECTOR= 'H1'
+PEAK_CENTER_AFTER= True
+PEAK_CENTER_DETECTOR= 'H2'
 PEAK_CENTER_ISOTOPE= 'Ar40'
-PEAK_DETECTORS= ('H1','AX','L2')
+PEAK_DETECTORS= ('H2','H1','AX','L1')
 
 #equilibration
 EQ_TIME= eqtime
@@ -36,7 +36,7 @@ BASELINE_FITS=('average_SEM',)
 USE_WARM_CDD=False
 
 NCYCLES=6
-GENERATE_ICMFTABLE=True
+GENERATE_ICMFTABLE=False
 
 def main():
     info('unknown measurement script')
