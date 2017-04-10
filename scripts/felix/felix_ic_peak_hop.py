@@ -6,21 +6,21 @@
 #baselines
 BASELINE_COUNTS= 60
 BASELINE_DETECTOR= 'H2'
-BASELINE_MASS= 40.1
+BASELINE_MASS= 39.85
 BASELINE_BEFORE= False
 BASELINE_AFTER= True
 BASELINE_SETTLING_TIME= 10
 
 #peak center
 PEAK_CENTER_BEFORE= False
-PEAK_CENTER_AFTER= False
-PEAK_CENTER_DETECTOR= 'H1'
+PEAK_CENTER_AFTER= True
+PEAK_CENTER_DETECTOR= 'H2'
 PEAK_CENTER_ISOTOPE= 'Ar40'
-PEAK_DETECTORS= ('H1','AX','L2')
+PEAK_DETECTORS= ('H2','L2(CDD)')
 
 #equilibration
-#EQ_TIME= eqtime
-EQ_TIME = 1
+EQ_TIME= eqtime
+#EQ_TIME = 1
 
 INLET= 'H'
 OUTLET= 'V'
@@ -75,7 +75,7 @@ def main():
     #multicollect on active detectors
     #multicollect(ncounts=MULTICOLLECT_COUNTS, integration_time=1)
     if GENERATE_ICMFTABLE:
-        generate_ic_mftable(('H2','H1','AX','L1'))
+        generate_ic_mftable(('H2','H1','AX','L1'), peak_center_config='ic_peakhop')
         set_time_zero()
 
     peak_hop(ncycles=NCYCLES, hops=hops, mftable='ic_mftable')

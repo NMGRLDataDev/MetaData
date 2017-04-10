@@ -22,15 +22,16 @@ FITS = ('Ar40H1:parabolic','Ar40AX:parabolic','Ar40L2:parabolic')
 BASELINE_FITS=('average_SEM',)
 
 NCYCLES=6
-GENERATE_ICMFTABLE=False
+GENERATE_ICMFTABLE=True
 
 def main():
     info('unknown measurement script')
 
     # protect the CDD
     #set_deflection('CDD', 2000)
+    #activate_detectors(*ACTIVE_DETECTORS)
 
-    hops=load_hops('hops/ic3_hops.txt')
+    hops=load_hops('hops/ic3_hops.yaml')
     info(hops)
     define_hops(hops)
     '''
@@ -49,7 +50,7 @@ def main():
     sleep(0.5)
 
     if GENERATE_ICMFTABLE:
-        generate_ic_mftable(('H1','AX','L2'))
+        generate_ic_mftable(('H1','AX','L2'), peak_center_config='ic_peakhop')
         set_time_zero()
 
     peak_hop(ncycles=NCYCLES, hops=hops, mftable='ic_mftable')

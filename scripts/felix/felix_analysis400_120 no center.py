@@ -4,38 +4,35 @@ baseline:
   after: true
   before: false
   counts: 120
-  detector: H1
-  mass: 34.2
+  detector: H2
+  mass: 40.062
   settling_time: 15.0
 default_fits: nominal
 equilibration:
   eqtime: 1.0
-  inlet: R
+  inlet: H
   inlet_delay: 3
-  outlet: O
+  outlet: V
   use_extraction_eqtime: true
 multicollect:
   counts: 400
-  detector: H1
+  detector: H2
   isotope: Ar40
 peakcenter:
-  after: true
+  after: false
   before: false
-  detector: H1
+  detector: H2
   detectors:
   - H1
-  - AX
-  - L2
-  - CDD
-  integration_time: 0.262144
+  - L1
+  - L2(CDD)
   isotope: Ar40
+  integration_time: 1.048576
 peakhop:
-  generate_ic_table: false
   hops_name: ''
-  ncycles: 0
   use_peak_hop: false
 '''
-ACTIVE_DETECTORS=('H2','H1','AX','L1','L2','CDD')
+ACTIVE_DETECTORS=('H2','H1','AX','L1','L2(CDD)')
     
 def main():
     info('unknown measurement script')
@@ -61,26 +58,24 @@ def main():
     Equilibrate is non-blocking so use a sniff or sleep as a placeholder
     e.g sniff(<equilibration_time>) or sleep(<equilibration_time>)
     '''
-
     equilibrate(eqtime=eqt, inlet=mx.equilibration.inlet, outlet=mx.equilibration.outlet, 
                delay=mx.equilibration.inlet_delay)
-
     set_time_zero()
     
     sniff(eqt)    
     set_fits()
     set_baseline_fits()
-
+    
     #multicollect on active detectors
-    multicollect(ncounts=mx.multicollect.counts, integration_time=1)
+    multicollect(ncounts=mx.multicollect.counts, integration_time=1.048576)
     
     if mx.baseline.after:
         baselines(ncounts=mx.baseline.counts,mass=mx.baseline.mass, detector=mx.baseline.detector, 
                   settling_time=mx.baseline.settling_time)
     if mx.peakcenter.after:
         activate_detectors(*mx.peakcenter.detectors, **{'peak_center':True})
-        peak_center(detector=mx.peakcenter.detector,isotope=mx.peakcenter.isotope,
-        integration_time=mx.peakcenter.integration_time)
+        peak_center(detector=mx.peakcenter.detector,isotope=mx.peakcenter.isotope, 
+                    integration_time=mx.peakcenter.integration_time)
 
     if use_cdd_warming:
        gosub('warm_cdd', argv=(mx.equilibration.outlet,))    
