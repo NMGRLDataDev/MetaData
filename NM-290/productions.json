@@ -1,15 +1,14 @@
 {
-    "A": "", 
-    "B": "", 
-    "C": "", 
-    "D": "", 
-    "E": "", 
-    "F": "", 
-    "G": "", 
-    "J": "", 
-    "K": "", 
-    "L": "", 
-    "M": "", 
-    "N": "", 
-    "O": ""
+    "A": "TRIGA", 
+    "B": "TRIGA", 
+    "C": "TRIGA", 
+    "D": "TRIGA", 
+    "E": "TRIGA", 
+    "F": "TRIGA", 
+    "J": "TRIGA", 
+    "K": "TRIGA", 
+    "L": "TRIGA", 
+    "M": "TRIGA", 
+    "N": "TRIGA", 
+    "O": "TRIGA"
 }
