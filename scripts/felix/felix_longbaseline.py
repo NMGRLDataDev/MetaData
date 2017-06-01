@@ -69,7 +69,7 @@ def main():
     multicollect(ncounts=mx.multicollect.counts, integration_time=1.048576)
     
     if mx.baseline.after:
-        set_integration_time(4.194)
+        set_integration_time(8.3886)
         baselines(ncounts=mx.baseline.counts,mass=mx.baseline.mass, detector=mx.baseline.detector, 
                   settling_time=mx.baseline.settling_time)
         set_integration_time(1.049)
