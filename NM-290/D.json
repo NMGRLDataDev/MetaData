@@ -34,8 +34,8 @@
             "analyses": [], 
             "decay_constants": {}, 
             "identifier": "25434", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
+            "j": 0.0028, 
+            "j_err": 2.8e-06, 
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 7
