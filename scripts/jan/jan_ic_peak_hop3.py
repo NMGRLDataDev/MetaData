@@ -28,7 +28,7 @@ def main():
     info('unknown measurement script')
 
     # protect the CDD
-    #set_deflection('CDD', 2000)
+    set_deflection('CDD', 2000)
     #activate_detectors(*ACTIVE_DETECTORS)
 
     hops=load_hops('hops/ic3_hops.yaml')
@@ -55,6 +55,7 @@ def main():
 
     peak_hop(ncycles=NCYCLES, hops=hops, mftable='ic_mftable')
 
+
     if BASELINE_AFTER:
         #necessary if peak hopping
         define_detectors('Ar40','H1')
@@ -63,7 +64,8 @@ def main():
 
         baselines(ncounts=BASELINE_COUNTS,mass=BASELINE_MASS, detector=BASELINE_DETECTOR,
                   settling_time=BASELINE_SETTLING_TIME)
+
     # unprotect CDD
-    #set_deflection('CDD', 50)
+    set_deflection('CDD', 50)
 
     info('finished measure script')
