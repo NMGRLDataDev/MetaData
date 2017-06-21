@@ -30,3 +30,10 @@ def main():
         info('get resource value {}'.format(v))
         if get_resource_value(name='JanMiniboneFlag'):
             gosub('jan:PumpMinibone')
+#===============================================================================
+# POST MEASUREMENT SCRIPT jan_pump_ms.py
+#===============================================================================
+def main():
+    info('Pumping spectrometer')
+    open(name='O')
+    
