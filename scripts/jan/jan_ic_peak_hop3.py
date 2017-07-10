@@ -4,7 +4,7 @@
 #counts
 
 #baselines
-BASELINE_COUNTS= 120
+BASELINE_COUNTS= 75
 BASELINE_DETECTOR= 'H1'
 BASELINE_MASS= 34.2
 BASELINE_BEFORE= False
@@ -22,13 +22,13 @@ FITS = ('Ar40H1:parabolic','Ar40AX:parabolic','Ar40L2:parabolic')
 BASELINE_FITS=('average_SEM',)
 
 NCYCLES=6
-GENERATE_ICMFTABLE=True
+GENERATE_ICMFTABLE=False
 
 def main():
     info('unknown measurement script')
 
     # protect the CDD
-    #set_deflection('CDD', 2000)
+    set_deflection('CDD', 2000)
     #activate_detectors(*ACTIVE_DETECTORS)
 
     hops=load_hops('hops/ic3_hops.yaml')
@@ -55,6 +55,7 @@ def main():
 
     peak_hop(ncycles=NCYCLES, hops=hops, mftable='ic_mftable')
 
+
     if BASELINE_AFTER:
         #necessary if peak hopping
         define_detectors('Ar40','H1')
@@ -63,7 +64,8 @@ def main():
 
         baselines(ncounts=BASELINE_COUNTS,mass=BASELINE_MASS, detector=BASELINE_DETECTOR,
                   settling_time=BASELINE_SETTLING_TIME)
+
     # unprotect CDD
-    #set_deflection('CDD', 50)
+    set_deflection('CDD', 50)
 
     info('finished measure script')

@@ -78,7 +78,8 @@ def main():
         generate_ic_mftable(('H2','H1','AX','L1'), peak_center_config='ic_peakhop')
         set_time_zero()
 
-    peak_hop(ncycles=NCYCLES, hops=hops, mftable='ic_mftable')
+    #peak_hop(ncycles=NCYCLES, hops=hops, mftable='ic_mftable')
+    peak_hop(ncycles=NCYCLES, hops=hops, mftable='argon')
 
     if BASELINE_AFTER:
         #necessary if peak hopping

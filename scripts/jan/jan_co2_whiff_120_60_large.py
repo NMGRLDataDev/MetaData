@@ -19,7 +19,7 @@ multicollect:
   detector: H1
   isotope: Ar40
 peakcenter:
-  after: true
+  after: false
   before: false
   detector: H1
   detectors:
@@ -51,7 +51,7 @@ whiff:
 
 
 ACTIVE_DETECTORS=('H2','H1','AX','L1','L2', 'CDD')
-#FITS=('Ar41:linear','Ar40:linear', 'Ar39:parabolic','Ar38:parabolic','Ar37:parabolic','Ar36:parabolic')
+#FITS=('Ar41:linear','Ar40:linear', 'Ar39:linear','Ar38:linear','Ar37:linear','Ar36:linear')
 
 def main():
 

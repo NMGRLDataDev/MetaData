@@ -1,0 +1,539 @@
+{
+    "positions": [
+        {
+            "analyses": [
+                {
+                    "record_id": "25515-01", 
+                    "status": false, 
+                    "uuid": "341fe4bf-4975-4042-b62a-0062e5e2170d"
+                }, 
+                {
+                    "record_id": "25515-02", 
+                    "status": false, 
+                    "uuid": "b045e805-5145-4e55-ab54-322317a248dc"
+                }, 
+                {
+                    "record_id": "25515-03", 
+                    "status": false, 
+                    "uuid": "289de31f-c224-4764-b856-246e5d599df4"
+                }, 
+                {
+                    "record_id": "25515-04", 
+                    "status": false, 
+                    "uuid": "bf4ddfa3-ded1-4362-bc4d-993e06f368f5"
+                }, 
+                {
+                    "record_id": "25515-05", 
+                    "status": false, 
+                    "uuid": "e037a556-082e-426a-9385-49f78c020138"
+                }, 
+                {
+                    "record_id": "25515-06", 
+                    "status": false, 
+                    "uuid": "93099017-142c-4605-8f13-cb524ed9ffa2"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "25515", 
+            "j": 0.0018974226038589908, 
+            "j_err": 5.5214829495754796e-06, 
+            "mean_j": 0.0018971586556709816, 
+            "mean_j_err": 6.380976856662822e-07, 
+            "position": 17
+        }, 
+        {
+            "analyses": [
+                {
+                    "record_id": "25516-01", 
+                    "status": false, 
+                    "uuid": "a5029877-9b56-4599-b9ac-08cb3a0a0931"
+                }, 
+                {
+                    "record_id": "25516-02", 
+                    "status": false, 
+                    "uuid": "16fe7ade-ed9c-4715-9f1e-e59a7ac8e7e7"
+                }, 
+                {
+                    "record_id": "25516-03", 
+                    "status": false, 
+                    "uuid": "a6e057e4-f324-4444-a654-feb791d508a1"
+                }, 
+                {
+                    "record_id": "25516-04", 
+                    "status": false, 
+                    "uuid": "e6885537-27b5-46ad-ba82-e8589a14435d"
+                }, 
+                {
+                    "record_id": "25516-05", 
+                    "status": false, 
+                    "uuid": "0ae8d54f-991c-4425-930f-123828703a13"
+                }, 
+                {
+                    "record_id": "25516-06", 
+                    "status": false, 
+                    "uuid": "c3b65adb-98d7-4b7d-b918-d4526458fdfd"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "25516", 
+            "j": 0.0018949114272799898, 
+            "j_err": 5.52167074873031e-06, 
+            "mean_j": 0.0018937447396968092, 
+            "mean_j_err": 5.653345054600689e-07, 
+            "position": 18
+        }, 
+        {
+            "analyses": [
+                {
+                    "record_id": "25517-01", 
+                    "status": false, 
+                    "uuid": "77a6bb48-ef3c-477d-a7ea-c0d949c9618d"
+                }, 
+                {
+                    "record_id": "25517-02", 
+                    "status": false, 
+                    "uuid": "d83afa83-5f5f-4bbe-a0bd-fe7546108913"
+                }, 
+                {
+                    "record_id": "25517-03", 
+                    "status": false, 
+                    "uuid": "6b7122ea-f045-4484-ab77-1cd0687970d0"
+                }, 
+                {
+                    "record_id": "25517-04", 
+                    "status": false, 
+                    "uuid": "8826b293-ee69-4339-8b41-04f7a8262918"
+                }, 
+                {
+                    "record_id": "25517-05", 
+                    "status": false, 
+                    "uuid": "24f216e3-6600-4ee1-94a0-22bb24ccd62b"
+                }, 
+                {
+                    "record_id": "25517-06", 
+                    "status": false, 
+                    "uuid": "9639b772-6d0a-4104-9826-5520f7059004"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "25517", 
+            "j": 0.0018927019783879571, 
+            "j_err": 5.5214829495754796e-06, 
+            "mean_j": 0.0018923869687596869, 
+            "mean_j_err": 5.464576703227283e-07, 
+            "position": 19
+        }, 
+        {
+            "analyses": [
+                {
+                    "record_id": "25518-01", 
+                    "status": true, 
+                    "uuid": "54682f83-58ff-4698-a5f6-6df234342ad9"
+                }, 
+                {
+                    "record_id": "25518-02", 
+                    "status": false, 
+                    "uuid": "f67da4cf-8cd2-4d25-b212-e27449c90509"
+                }, 
+                {
+                    "record_id": "25518-03", 
+                    "status": false, 
+                    "uuid": "a36b6d9a-13ae-423c-b551-7a275e3ef652"
+                }, 
+                {
+                    "record_id": "25518-04", 
+                    "status": true, 
+                    "uuid": "94ffbe5c-1f93-4ecc-bd9d-90b67adf99a6"
+                }, 
+                {
+                    "record_id": "25518-05", 
+                    "status": false, 
+                    "uuid": "c8a6a47e-aa1f-4ced-ba51-e67422792480"
+                }, 
+                {
+                    "record_id": "25518-06", 
+                    "status": false, 
+                    "uuid": "cdfc2494-7ecc-4da6-8b48-6ee1b48faaac"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "25518", 
+            "j": 0.0018920882886453477, 
+            "j_err": 5.52167074873031e-06, 
+            "mean_j": 0.001893557294589301, 
+            "mean_j_err": 9.61917859605269e-07, 
+            "position": 20
+        }, 
+        {
+            "analyses": [
+                {
+                    "record_id": "25519-01", 
+                    "status": false, 
+                    "uuid": "621f51f3-779f-4b12-bd72-d59ef5f169b9"
+                }, 
+                {
+                    "record_id": "25519-02", 
+                    "status": false, 
+                    "uuid": "a0cb2196-9ca8-4eb3-9246-b24adb08c840"
+                }, 
+                {
+                    "record_id": "25519-03", 
+                    "status": false, 
+                    "uuid": "f9ff60ae-eeaf-454b-96f9-d467f705ef2f"
+                }, 
+                {
+                    "record_id": "25519-04", 
+                    "status": false, 
+                    "uuid": "6cd8ac90-3f07-4c8d-82db-0f10d0aa952b"
+                }, 
+                {
+                    "record_id": "25519-05", 
+                    "status": false, 
+                    "uuid": "3edd6405-267e-4427-b66c-2187ac7f6de8"
+                }, 
+                {
+                    "record_id": "25519-06", 
+                    "status": false, 
+                    "uuid": "722fedbf-70ac-43df-972d-b99d58d3c813"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "25519", 
+            "j": 0.001893430286597881, 
+            "j_err": 5.5214829495754796e-06, 
+            "mean_j": 0.0018937740528839249, 
+            "mean_j_err": 7.540549473801806e-07, 
+            "position": 21
+        }, 
+        {
+            "analyses": [
+                {
+                    "record_id": "25520-01", 
+                    "status": true, 
+                    "uuid": "febd84eb-a7c3-4eb0-8442-fee8f06c51f3"
+                }, 
+                {
+                    "record_id": "25520-02", 
+                    "status": false, 
+                    "uuid": "7e65de8d-340c-41ae-ae79-062ddfcf019d"
+                }, 
+                {
+                    "record_id": "25520-03", 
+                    "status": false, 
+                    "uuid": "93a2e1b2-b47a-4e7b-ac94-19f94ad5e40a"
+                }, 
+                {
+                    "record_id": "25520-04", 
+                    "status": false, 
+                    "uuid": "6c2f77b0-9417-4f41-b99f-9a58170c9f91"
+                }, 
+                {
+                    "record_id": "25520-05", 
+                    "status": false, 
+                    "uuid": "4dba6345-da46-46bd-aad3-d8d9d9f3ac41"
+                }, 
+                {
+                    "record_id": "25520-06", 
+                    "status": false, 
+                    "uuid": "cae60270-8798-413e-9255-e48fe1181f37"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "25520", 
+            "j": 0.001895941463176882, 
+            "j_err": 5.521670748730311e-06, 
+            "mean_j": 0.0018942521397246738, 
+            "mean_j_err": 3.473846601396269e-07, 
+            "position": 22
+        }, 
+        {
+            "analyses": [
+                {
+                    "record_id": "25521-01", 
+                    "status": false, 
+                    "uuid": "56817e8b-3cf0-4365-932f-7f9325af9a37"
+                }, 
+                {
+                    "record_id": "25521-02", 
+                    "status": false, 
+                    "uuid": "b1dc54dc-a32a-4eec-a09d-22765682a952"
+                }, 
+                {
+                    "record_id": "25521-03", 
+                    "status": false, 
+                    "uuid": "d4b510fa-fee6-4128-b2e6-fc3c7947d9c8"
+                }, 
+                {
+                    "record_id": "25521-04", 
+                    "status": false, 
+                    "uuid": "881c31ec-1729-49e9-ae14-8af0bd290eab"
+                }, 
+                {
+                    "record_id": "25521-05", 
+                    "status": false, 
+                    "uuid": "58df095e-23a7-430c-ba02-d0c35a1e69ff"
+                }, 
+                {
+                    "record_id": "25521-06", 
+                    "status": false, 
+                    "uuid": "59f4d401-1272-4a70-aa44-f03f9e8ff8f8"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "25521", 
+            "j": 0.0018981509120689147, 
+            "j_err": 5.521482949575481e-06, 
+            "mean_j": 0.0018979673444099296, 
+            "mean_j_err": 1.1225250410970333e-06, 
+            "position": 23
+        }, 
+        {
+            "analyses": [
+                {
+                    "record_id": "25522-01", 
+                    "status": false, 
+                    "uuid": "b0e4f1e2-ae24-4da8-aaaf-32c23f66ce7a"
+                }, 
+                {
+                    "record_id": "25522-02", 
+                    "status": false, 
+                    "uuid": "4d1f40b3-6ec7-4b40-a865-5509dc1df2db"
+                }, 
+                {
+                    "record_id": "25522-03", 
+                    "status": false, 
+                    "uuid": "30c3b29c-5c8c-4cc7-99fb-5c3d5c70856e"
+                }, 
+                {
+                    "record_id": "25522-04", 
+                    "status": false, 
+                    "uuid": "8ea3eb80-2516-4400-b958-6267abb9286d"
+                }, 
+                {
+                    "record_id": "25522-05", 
+                    "status": false, 
+                    "uuid": "f2b85c34-9739-4d79-ad85-0578bed9a617"
+                }, 
+                {
+                    "record_id": "25522-06", 
+                    "status": false, 
+                    "uuid": "1ec957e4-3d7b-4853-bd80-ecb2c9e591c9"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "25522", 
+            "j": 0.001898764601811524, 
+            "j_err": 5.52167074873031e-06, 
+            "mean_j": 0.001900570366092182, 
+            "mean_j_err": 4.4767418189638316e-07, 
+            "position": 24
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65754", 
+            "j": 0.001896717509890204, 
+            "j_err": 5.524360833975117e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 1
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65755", 
+            "j": 0.0018957209776044937, 
+            "j_err": 5.524168771377703e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 2
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65756", 
+            "j": 0.0018941302308647854, 
+            "j_err": 5.523623481435758e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 3
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65757", 
+            "j": 0.0018932539195445999, 
+            "j_err": 5.5243608339751176e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 4
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65758", 
+            "j": 0.0018923026073743813, 
+            "j_err": 5.5243608339751176e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 5
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65759", 
+            "j": 0.001892059358868344, 
+            "j_err": 5.524168771377705e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 6
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65760", 
+            "j": 0.0018923054731101556, 
+            "j_err": 5.5236234814357585e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 7
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65761", 
+            "j": 0.0018928369775124054, 
+            "j_err": 5.5243608339751176e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 8
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65762", 
+            "j": 0.0018941353805666677, 
+            "j_err": 5.5243608339751176e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 9
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65763", 
+            "j": 0.0018951311344332807, 
+            "j_err": 5.5236234814357585e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 10
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65764", 
+            "j": 0.0018967226595920865, 
+            "j_err": 5.5236234814357585e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 11
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65765", 
+            "j": 0.001897598970912272, 
+            "j_err": 5.524360833975119e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 12
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65767", 
+            "j": 0.0018987935315885277, 
+            "j_err": 5.524168771377705e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 14
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
+            "identifier": "65766", 
+            "j": 0.0018985502830824905, 
+            "j_err": 5.524360833975119e-06, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
+            "position": 13
+        }
+    ], 
+    "z": 0
+}

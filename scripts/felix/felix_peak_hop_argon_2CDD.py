@@ -46,7 +46,7 @@ def main():
     if mx.peakcenter.before:
         peak_center(detector=mx.peakcenter.detector,isotope=mx.peakcenter.isotope)
 
-    set_spectrometer_configuration('argon')    
+    set_spectrometer_configuration('argon_2CDD')    
     
     position_magnet(mx.multicollect.isotope, detector=mx.multicollect.detector)
      
