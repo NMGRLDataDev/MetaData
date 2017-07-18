@@ -189,6 +189,56 @@
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 24
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {}, 
+            "identifier": "", 
+            "j": 0, 
+            "j_err": 0, 
+            "mean_j": 0, 
+            "mean_j_err": 0, 
+            "position": 3
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {}, 
+            "identifier": "", 
+            "j": 0, 
+            "j_err": 0, 
+            "mean_j": 0, 
+            "mean_j_err": 0, 
+            "position": 6
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {}, 
+            "identifier": "", 
+            "j": 0, 
+            "j_err": 0, 
+            "mean_j": 0, 
+            "mean_j_err": 0, 
+            "position": 9
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {}, 
+            "identifier": "", 
+            "j": 0, 
+            "j_err": 0, 
+            "mean_j": 0, 
+            "mean_j_err": 0, 
+            "position": 12
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {}, 
+            "identifier": "", 
+            "j": 0, 
+            "j_err": 0, 
+            "mean_j": 0, 
+            "mean_j_err": 0, 
+            "position": 15
         }
     ], 
     "z": 0
