@@ -5,7 +5,7 @@ baseline:
   before: false
   counts: 120
   detector: H2
-  mass: 40.062
+  mass: 39.862
   settling_time: 15.0
 default_fits: nominal
 equilibration:
@@ -24,7 +24,6 @@ peakcenter:
   detector: H2
   detectors:
   - H1
-  - L1
   - L2(CDD)
   isotope: Ar40
   integration_time: 1.048576
@@ -70,8 +69,11 @@ def main():
     multicollect(ncounts=mx.multicollect.counts, integration_time=1.048576)
     
     if mx.baseline.after:
+        #set_integration_time(4.194)
         baselines(ncounts=mx.baseline.counts,mass=mx.baseline.mass, detector=mx.baseline.detector, 
                   settling_time=mx.baseline.settling_time)
+        #set_integration_time(1.049)
+        
     if mx.peakcenter.after:
         activate_detectors(*mx.peakcenter.detectors, **{'peak_center':True})
         peak_center(detector=mx.peakcenter.detector,isotope=mx.peakcenter.isotope, 
