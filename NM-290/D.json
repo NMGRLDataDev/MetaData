@@ -7,8 +7,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65628", 
-            "j": 0.0028414074307238704, 
-            "j_err": 3.1106932896036296e-05, 
+            "j": 0.0028464888909135043, 
+            "j_err": 2.4347847279979494e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 2
@@ -20,8 +20,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65629", 
-            "j": 0.002840558657017261, 
-            "j_err": 2.729888326709928e-05, 
+            "j": 0.0028460016037957134, 
+            "j_err": 2.4346672605751455e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 3
@@ -33,8 +33,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65630", 
-            "j": 0.00283980743716105, 
-            "j_err": 3.2242775689143316e-05, 
+            "j": 0.002845605685168159, 
+            "j_err": 2.4347847279979494e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 6
@@ -55,21 +55,6 @@
                     "record_id": "25434-03", 
                     "status": false, 
                     "uuid": "74a37455-5791-461f-a5b6-8bea7fbe8023"
-                }, 
-                {
-                    "record_id": "25434-04", 
-                    "status": false, 
-                    "uuid": "019afb74-4f09-417f-ab62-935394edf3fd"
-                }, 
-                {
-                    "record_id": "25434-05", 
-                    "status": false, 
-                    "uuid": "e666cc7a-a590-49a3-9b0a-2c7d806e1481"
-                }, 
-                {
-                    "record_id": "25434-06", 
-                    "status": false, 
-                    "uuid": "3223331e-9bd3-4e9b-8a4f-8a75697bf59c"
                 }
             ], 
             "decay_constants": {
@@ -77,10 +62,10 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "25434", 
-            "j": 0.002840212333618852, 
-            "j_err": 3.4546051228167275e-05, 
-            "mean_j": 0.0028352592175076782, 
-            "mean_j_err": 3.1738955323979485e-06, 
+            "j": 0.0028458590343870267, 
+            "j_err": 2.4348070926780074e-06, 
+            "mean_j": 0.002842089339367768, 
+            "mean_j_err": 3.767526894628214e-06, 
             "position": 7
         }, 
         {
@@ -90,8 +75,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65631", 
-            "j": 0.002841875852700278, 
-            "j_err": 3.565787165134102e-05, 
+            "j": 0.0028468615257592604, 
+            "j_err": 2.434667260575146e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 9
@@ -103,8 +88,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65632", 
-            "j": 0.0028442736962629306, 
-            "j_err": 3.503852790094188e-05, 
+            "j": 0.00284828235558129, 
+            "j_err": 2.4346672605751455e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 11
@@ -116,8 +101,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65633", 
-            "j": 0.002845551495032128, 
-            "j_err": 3.654108616042841e-05, 
+            "j": 0.002849033031485268, 
+            "j_err": 2.4347847279979494e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 12
@@ -129,8 +114,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65634", 
-            "j": 0.0028478326085988083, 
-            "j_err": 4.568641307132788e-05, 
+            "j": 0.002850360959066449, 
+            "j_err": 2.4347847279979494e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 14
@@ -142,8 +127,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65635", 
-            "j": 0.002848681382305418, 
-            "j_err": 5.212819717896392e-05, 
+            "j": 0.0028508482461842397, 
+            "j_err": 2.434667260575146e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 15
@@ -155,8 +140,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65636", 
-            "j": 0.002849509311935341, 
-            "j_err": 6.390067698748016e-05, 
+            "j": 0.0028513052681516287, 
+            "j_err": 2.434667260575146e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 17
@@ -168,8 +153,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65637", 
-            "j": 0.0028494326021616286, 
-            "j_err": 6.766934012268557e-05, 
+            "j": 0.002851244164811794, 
+            "j_err": 2.4347847279979494e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 18
@@ -181,8 +166,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65638", 
-            "j": 0.002848322433604611, 
-            "j_err": 6.864874010235997e-05, 
+            "j": 0.0028505626056811173, 
+            "j_err": 2.4347847279979494e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 20
@@ -194,8 +179,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65639", 
-            "j": 0.002847364186622401, 
-            "j_err": 6.560997759574553e-05, 
+            "j": 0.0028499883242206927, 
+            "j_err": 2.434667260575146e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 21
@@ -207,8 +192,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65640", 
-            "j": 0.002844966343059748, 
-            "j_err": 5.3560945038580285e-05, 
+            "j": 0.0028485674943986633, 
+            "j_err": 2.434667260575146e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 23
@@ -220,29 +205,14 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65641", 
-            "j": 0.0028436885442905506, 
-            "j_err": 4.5668200328105596e-05, 
+            "j": 0.002847816818494685, 
+            "j_err": 2.4347847279979494e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 24
         }, 
         {
             "analyses": [
-                {
-                    "record_id": "25435-01", 
-                    "status": false, 
-                    "uuid": "d6fd8da5-cb7a-4629-83c0-b0a2f87041dd"
-                }, 
-                {
-                    "record_id": "25435-02", 
-                    "status": false, 
-                    "uuid": "c2238f57-e02d-4ccd-9d3a-c90379aaac58"
-                }, 
-                {
-                    "record_id": "25435-03", 
-                    "status": false, 
-                    "uuid": "910cc0a8-6a80-4a9f-87f4-3c145cc179a1"
-                }, 
                 {
                     "record_id": "25435-05", 
                     "status": false, 
@@ -252,6 +222,36 @@
                     "record_id": "25435-06", 
                     "status": false, 
                     "uuid": "6e6e3b7d-3b69-420b-acfe-25acd05b83fa"
+                }, 
+                {
+                    "record_id": "25435-07", 
+                    "status": true, 
+                    "uuid": "4bd8a749-b94f-4a93-ad64-5869dfe0e204"
+                }, 
+                {
+                    "record_id": "25435-08", 
+                    "status": false, 
+                    "uuid": "595d8420-4185-45c4-8c75-ed42544b31a7"
+                }, 
+                {
+                    "record_id": "25435-09", 
+                    "status": false, 
+                    "uuid": "4ee12093-410e-434b-8500-862ad225914c"
+                }, 
+                {
+                    "record_id": "25435-10", 
+                    "status": false, 
+                    "uuid": "beb73734-9d61-4490-9e75-8a7d253bd965"
+                }, 
+                {
+                    "record_id": "25435-11", 
+                    "status": false, 
+                    "uuid": "3f2ef86f-d4fb-4739-a4e7-313ad9115b37"
+                }, 
+                {
+                    "record_id": "25435-12", 
+                    "status": false, 
+                    "uuid": "688e88e9-5ccc-412f-9084-7b6ef7376468"
                 }
             ], 
             "decay_constants": {
@@ -259,10 +259,10 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "25435", 
-            "j": 0.0028424748943483994, 
-            "j_err": 3.7739409821478395e-05, 
-            "mean_j": 0.0028389727783829227, 
-            "mean_j_err": 3.145385993815471e-06, 
+            "j": 0.0028471079810590406, 
+            "j_err": 2.4348070926780074e-06, 
+            "mean_j": 0.002848989399730097, 
+            "mean_j_err": 1.1730386727481873e-06, 
             "position": 1
         }, 
         {
@@ -303,10 +303,10 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "25436", 
-            "j": 0.002839986130347279, 
-            "j_err": 2.705500352123894e-05, 
-            "mean_j": 0.0028469903622782367, 
-            "mean_j_err": 1.2351057066082522e-06, 
+            "j": 0.0028456791378035444, 
+            "j_err": 2.4349303916063794e-06, 
+            "mean_j": 0.0028461925620705724, 
+            "mean_j_err": 1.3061653888174991e-06, 
             "position": 4
         }, 
         {
@@ -316,20 +316,54 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65642", 
-            "j": 0.002840917605718068, 
-            "j_err": 3.566556525008517e-05, 
+            "j": 0.002846287244298836, 
+            "j_err": 2.4347847279979494e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 8
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25437-07", 
+                    "status": false, 
+                    "uuid": "aeda2b9e-ec48-4a53-9559-e65a93ee989e"
+                }, 
+                {
+                    "record_id": "25437-08", 
+                    "status": false, 
+                    "uuid": "90839f54-f2b5-4482-bc61-8387cbb4454e"
+                }, 
+                {
+                    "record_id": "25437-09", 
+                    "status": false, 
+                    "uuid": "262c2d74-236a-4800-8752-6737f83fbff1"
+                }, 
+                {
+                    "record_id": "25437-10", 
+                    "status": false, 
+                    "uuid": "4ddc7446-1c5b-4c9a-9fe0-c26e9627946a"
+                }, 
+                {
+                    "record_id": "25437-11", 
+                    "status": false, 
+                    "uuid": "34e13e7c-3205-46be-ab06-c1062e9af5b1"
+                }, 
+                {
+                    "record_id": "25437-12", 
+                    "status": false, 
+                    "uuid": "2f5eaafa-6b1b-4c8c-a45b-cd9b9ac3dfd2"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25437", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002847541719244631, 
+            "j_err": 2.4349303916063794e-06, 
+            "mean_j": 0.0028505004715880136, 
+            "mean_j_err": 1.928655192189521e-06, 
             "position": 10
         }, 
         {
@@ -370,40 +404,137 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "25438", 
-            "j": 0.0028467651449742793, 
-            "j_err": 4.0192201662671334e-05, 
-            "mean_j": 0.0028482161451199774, 
-            "mean_j_err": 1.6482073999886696e-06, 
+            "j": 0.0028497418689209125, 
+            "j_err": 2.4348070926780074e-06, 
+            "mean_j": 0.002849681503504412, 
+            "mean_j_err": 1.4767814800646845e-06, 
             "position": 13
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25439-01", 
+                    "status": false, 
+                    "uuid": "5417635b-2a39-4501-919a-7f5f886029b2"
+                }, 
+                {
+                    "record_id": "25439-02", 
+                    "status": false, 
+                    "uuid": "60a8dccd-4677-4983-b237-0dd7a692bad1"
+                }, 
+                {
+                    "record_id": "25439-03", 
+                    "status": false, 
+                    "uuid": "6a02cb2c-20c3-4bdd-b148-0400620e950f"
+                }, 
+                {
+                    "record_id": "25439-04", 
+                    "status": false, 
+                    "uuid": "77db0816-3502-4b2f-ac8e-2a96f3b1f5eb"
+                }, 
+                {
+                    "record_id": "25439-05", 
+                    "status": false, 
+                    "uuid": "b924f789-5454-4ad7-8742-40ba4cfa139c"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25439", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028511707121764087, 
+            "j_err": 2.4349303916063794e-06, 
+            "mean_j": 0.0028509637559883407, 
+            "mean_j_err": 1.0143203307821147e-06, 
             "position": 16
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25440-01", 
+                    "status": false, 
+                    "uuid": "2d41f5f3-4135-474c-b46a-aa44c55f226e"
+                }, 
+                {
+                    "record_id": "25440-02", 
+                    "status": false, 
+                    "uuid": "d3a96043-8480-46ae-b0fc-7d6446d5f940"
+                }, 
+                {
+                    "record_id": "25440-03", 
+                    "status": false, 
+                    "uuid": "3934774d-019c-4265-a9a2-e64be944b049"
+                }, 
+                {
+                    "record_id": "25440-04", 
+                    "status": false, 
+                    "uuid": "de62f9aa-0aea-40ab-8a24-f5572d39166b"
+                }, 
+                {
+                    "record_id": "25440-05", 
+                    "status": false, 
+                    "uuid": "0908ef9f-226d-47a0-9bd8-8ab6b0de28b4"
+                }, 
+                {
+                    "record_id": "25440-06", 
+                    "status": false, 
+                    "uuid": "34a2f069-b07c-4a78-851e-2fad401bd5c4"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25440", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028509908155929264, 
+            "j_err": 2.4348070926780074e-06, 
+            "mean_j": 0.002850181753857961, 
+            "mean_j_err": 5.969844250500812e-07, 
             "position": 19
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25441-01", 
+                    "status": false, 
+                    "uuid": "24b6bb7a-cf46-406c-b9d4-f9a361b7d501"
+                }, 
+                {
+                    "record_id": "25441-02", 
+                    "status": false, 
+                    "uuid": "faba3c7d-03b9-461b-8f49-dc24e681d2cb"
+                }, 
+                {
+                    "record_id": "25441-03", 
+                    "status": false, 
+                    "uuid": "9fc416cd-a03c-4bcc-877f-d9e59bd40c9b"
+                }, 
+                {
+                    "record_id": "25441-04", 
+                    "status": false, 
+                    "uuid": "e2141f57-3f14-4f01-b601-c295922923cf"
+                }, 
+                {
+                    "record_id": "25441-05", 
+                    "status": false, 
+                    "uuid": "4c088698-5d50-4184-924b-ca1f35a6dfdb"
+                }, 
+                {
+                    "record_id": "25441-06", 
+                    "status": false, 
+                    "uuid": "8fe271ec-7e07-46c7-b9bd-bf689682e1ab"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25441", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002849308130735322, 
+            "j_err": 2.4349303916063794e-06, 
+            "mean_j": 0.0028488006138126442, 
+            "mean_j_err": 1.681968780591675e-06, 
             "position": 22
         }, 
         {
@@ -413,8 +544,8 @@
                 "lambda_k_total_error": 0
             }, 
             "identifier": "65643", 
-            "j": 0.002839730727387338, 
-            "j_err": 2.9308038986397845e-05, 
+            "j": 0.0028455445818283244, 
+            "j_err": 2.434667260575146e-06, 
             "mean_j": 0.0, 
             "mean_j_err": 0.0, 
             "position": 5
