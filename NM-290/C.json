@@ -2,242 +2,642 @@
     "positions": [
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65612", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002854289664650451, 
+            "j_err": 7.677096345039855e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 2
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65613", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028540652933101893, 
+            "j_err": 7.676725959637035e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 3
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65614", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028537938518048015, 
+            "j_err": 7.676725959637035e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 5
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65615", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028537650975307273, 
+            "j_err": 7.677096345039856e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 6
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65616", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002853931550288596, 
+            "j_err": 7.677096345039856e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 8
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65617", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028541154804638514, 
+            "j_err": 7.676725959637035e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 9
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65618", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002854622306498973, 
+            "j_err": 7.676725959637035e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 11
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65619", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002854911003571045, 
+            "j_err": 7.677096345039855e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 12
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65620", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028554613574053593, 
+            "j_err": 7.677096345039855e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 14
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65621", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002855685728745621, 
+            "j_err": 7.676725959637035e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 15
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65622", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028559571702510087, 
+            "j_err": 7.676725959637035e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 17
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65623", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002855985924525083, 
+            "j_err": 7.677096345039856e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 18
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65624", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002855819471767214, 
+            "j_err": 7.677096345039856e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 20
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65625", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002855635541591959, 
+            "j_err": 7.676725959637035e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 21
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65626", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002855128715556837, 
+            "j_err": 7.676725959637035e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 23
         }, 
         {
             "analyses": [], 
-            "decay_constants": {}, 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "65627", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028548400184847653, 
+            "j_err": 7.677096345039855e-07, 
+            "mean_j": 0.0, 
+            "mean_j_err": 0.0, 
             "position": 24
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25426-01", 
+                    "status": false, 
+                    "uuid": "2117fe2b-9430-4683-b3cf-d4d0863d8f6e"
+                }, 
+                {
+                    "record_id": "25426-02", 
+                    "status": false, 
+                    "uuid": "8e9c67f2-9c38-45c5-ba1c-a81a801cbd26"
+                }, 
+                {
+                    "record_id": "25426-03", 
+                    "status": false, 
+                    "uuid": "c96f394a-a786-4012-91f5-742f528c79b7"
+                }, 
+                {
+                    "record_id": "25426-04", 
+                    "status": false, 
+                    "uuid": "93d100b3-cd44-4d6a-a967-dc95aa2d1f28"
+                }, 
+                {
+                    "record_id": "25426-05", 
+                    "status": false, 
+                    "uuid": "9ceac113-0d1c-4a25-a492-76bbdb3a736a"
+                }, 
+                {
+                    "record_id": "25426-06", 
+                    "status": false, 
+                    "uuid": "c23c024c-9174-428e-bbf3-ea2755017216"
+                }, 
+                {
+                    "record_id": "25426-07", 
+                    "status": false, 
+                    "uuid": "a937b70c-104d-4019-ba08-89584bf07f72"
+                }, 
+                {
+                    "record_id": "25426-08", 
+                    "status": false, 
+                    "uuid": "d155b84f-5573-4b5c-916f-bb1eb75b699b"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25426", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002854553882368855, 
+            "j_err": 7.677166862897782e-07, 
+            "mean_j": 0.0028547654508792337, 
+            "mean_j_err": 1.289401721185387e-06, 
             "position": 1
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25427-01", 
+                    "status": false, 
+                    "uuid": "ac1c692a-0840-4b8f-91f1-d22c565d0122"
+                }, 
+                {
+                    "record_id": "25427-02", 
+                    "status": false, 
+                    "uuid": "82a3ba74-eac2-48a5-86c8-3dea942549f4"
+                }, 
+                {
+                    "record_id": "25427-03", 
+                    "status": false, 
+                    "uuid": "c91680d4-5a66-4978-9fa9-bdb584c1c646"
+                }, 
+                {
+                    "record_id": "25427-04", 
+                    "status": false, 
+                    "uuid": "97444abf-5760-4d2a-bbdb-90aac8af1cff"
+                }, 
+                {
+                    "record_id": "25427-05", 
+                    "status": false, 
+                    "uuid": "668a42d1-d27b-43f5-b3a2-a419b458da62"
+                }, 
+                {
+                    "record_id": "25427-06", 
+                    "status": false, 
+                    "uuid": "e75f227f-5f4b-4bc3-95b3-a150bacd1352"
+                }, 
+                {
+                    "record_id": "25427-07", 
+                    "status": false, 
+                    "uuid": "87290a1f-b866-4515-a639-4b0749edbe5f"
+                }, 
+                {
+                    "record_id": "25427-08", 
+                    "status": false, 
+                    "uuid": "501462b6-0c2f-4c0e-9eea-7ec070097730"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25427", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028538960577454563, 
+            "j_err": 7.677555635564817e-07, 
+            "mean_j": 0.0028529551971077606, 
+            "mean_j_err": 8.260500389379535e-07, 
             "position": 4
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25428-01", 
+                    "status": false, 
+                    "uuid": "4619da39-d47d-4fdb-8fe9-902e3d45529b"
+                }, 
+                {
+                    "record_id": "25428-02", 
+                    "status": false, 
+                    "uuid": "814e315f-4cc0-4aa1-bc8f-e007153dfacc"
+                }, 
+                {
+                    "record_id": "25428-03", 
+                    "status": false, 
+                    "uuid": "2c12e331-2ecc-4bef-8b14-558f55ccd3b5"
+                }, 
+                {
+                    "record_id": "25428-04", 
+                    "status": false, 
+                    "uuid": "81eaa2cd-35a2-4d73-b6a6-d3dacc799fbe"
+                }, 
+                {
+                    "record_id": "25428-05", 
+                    "status": false, 
+                    "uuid": "4b4887cd-cacd-4e6a-b2c6-1da7930bdb60"
+                }, 
+                {
+                    "record_id": "25428-06", 
+                    "status": false, 
+                    "uuid": "88d50f1f-e308-4e6f-a59b-be7a21560df5"
+                }, 
+                {
+                    "record_id": "25428-07", 
+                    "status": false, 
+                    "uuid": "9d779e60-809e-4b50-ba9e-6464bb0b98e6"
+                }, 
+                {
+                    "record_id": "25428-08", 
+                    "status": false, 
+                    "uuid": "32548e48-2fc6-491d-aa19-9dd56bc2c73d"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25428", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028538120887812574, 
+            "j_err": 7.677166862897784e-07, 
+            "mean_j": 0.002855322674165792, 
+            "mean_j_err": 8.150211691226276e-07, 
             "position": 7
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25429-01", 
+                    "status": false, 
+                    "uuid": "44deb9ba-cfe1-44ba-8137-11c7645e7065"
+                }, 
+                {
+                    "record_id": "25429-02", 
+                    "status": false, 
+                    "uuid": "7e02fa39-8f27-450e-85ff-45850709cf60"
+                }, 
+                {
+                    "record_id": "25429-03", 
+                    "status": false, 
+                    "uuid": "1e49dcce-ce97-4716-9997-e11a3500bc75"
+                }, 
+                {
+                    "record_id": "25429-04", 
+                    "status": false, 
+                    "uuid": "ff20793b-eb82-42e9-8d36-6c8b697d67b2"
+                }, 
+                {
+                    "record_id": "25429-05", 
+                    "status": false, 
+                    "uuid": "deec4639-cd47-497d-8c74-5f7a0abf189a"
+                }, 
+                {
+                    "record_id": "25429-06", 
+                    "status": false, 
+                    "uuid": "cf8342c5-920e-4d04-83ab-e371ee97ce6a"
+                }, 
+                {
+                    "record_id": "25429-07", 
+                    "status": false, 
+                    "uuid": "875a16b2-c0df-4be0-8738-84d4105a7965"
+                }, 
+                {
+                    "record_id": "25429-08", 
+                    "status": false, 
+                    "uuid": "6131975c-8abd-4ba2-aa85-a5f34665e2bd"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25429", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028543509439081815, 
+            "j_err": 7.677555635564816e-07, 
+            "mean_j": 0.0028536392663782197, 
+            "mean_j_err": 9.79170876224563e-07, 
             "position": 10
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25430-01", 
+                    "status": false, 
+                    "uuid": "ce870ddf-2399-4f50-99bf-4727d158ade7"
+                }, 
+                {
+                    "record_id": "25430-02", 
+                    "status": false, 
+                    "uuid": "99b5e9a1-d3c6-4548-9de0-7f4454a97a18"
+                }, 
+                {
+                    "record_id": "25430-03", 
+                    "status": false, 
+                    "uuid": "b67f4ad8-55a4-4ada-805d-489fc587329c"
+                }, 
+                {
+                    "record_id": "25430-04", 
+                    "status": false, 
+                    "uuid": "a95d28f6-8acd-4df2-a9ea-1a53254e335d"
+                }, 
+                {
+                    "record_id": "25430-05", 
+                    "status": false, 
+                    "uuid": "cbeb2d61-c8fa-4784-8cea-fbbc66cfb0d6"
+                }, 
+                {
+                    "record_id": "25430-06", 
+                    "status": false, 
+                    "uuid": "38bc8efe-08a5-47d6-a9fc-828cf06164cd"
+                }, 
+                {
+                    "record_id": "25430-07", 
+                    "status": false, 
+                    "uuid": "b4c7db2e-67a9-4acc-9fac-2ccd2ac65a90"
+                }, 
+                {
+                    "record_id": "25430-08", 
+                    "status": false, 
+                    "uuid": "55679d00-ddcb-48e7-bd7b-472ba4d1874d"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25430", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002855197139686955, 
+            "j_err": 7.677166862897782e-07, 
+            "mean_j": 0.002854910601441166, 
+            "mean_j_err": 9.684957985064293e-07, 
             "position": 13
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25431-01", 
+                    "status": false, 
+                    "uuid": "7ae5fed0-fe08-4dac-bb80-e8db8219c275"
+                }, 
+                {
+                    "record_id": "25431-02", 
+                    "status": false, 
+                    "uuid": "fd580da2-027e-481c-83ad-177ab85345fb"
+                }, 
+                {
+                    "record_id": "25431-03", 
+                    "status": false, 
+                    "uuid": "ff33ee71-c0ea-418e-87d4-b7195d7810fb"
+                }, 
+                {
+                    "record_id": "25431-04", 
+                    "status": false, 
+                    "uuid": "8e4b0f97-118d-4fc0-829d-57692ddbaa63"
+                }, 
+                {
+                    "record_id": "25431-05", 
+                    "status": false, 
+                    "uuid": "41876905-a1fb-493a-8573-150f469c869d"
+                }, 
+                {
+                    "record_id": "25431-06", 
+                    "status": false, 
+                    "uuid": "6530b81b-4b3b-43b2-87a3-07a4015d3ae4"
+                }, 
+                {
+                    "record_id": "25431-07", 
+                    "status": false, 
+                    "uuid": "c9fbeb52-8259-44ec-b6d4-4714f1299515"
+                }, 
+                {
+                    "record_id": "25431-08", 
+                    "status": false, 
+                    "uuid": "4853be93-3726-4dcd-817b-d387da2c623f"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25431", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002855854964310354, 
+            "j_err": 7.677555635564817e-07, 
+            "mean_j": 0.0028558790424163477, 
+            "mean_j_err": 1.46938671981398e-06, 
             "position": 16
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25432-01", 
+                    "status": false, 
+                    "uuid": "874aa192-4785-4bff-abd5-cb7325cf9843"
+                }, 
+                {
+                    "record_id": "25432-02", 
+                    "status": false, 
+                    "uuid": "fbc6fc3f-4130-4034-8b00-05c3130fffff"
+                }, 
+                {
+                    "record_id": "25432-03", 
+                    "status": false, 
+                    "uuid": "782d531d-7809-4115-b2fa-60fe2368ab6b"
+                }, 
+                {
+                    "record_id": "25432-04", 
+                    "status": false, 
+                    "uuid": "2e7f99e3-ed78-4666-8cbf-bdd5c1b2403f"
+                }, 
+                {
+                    "record_id": "25432-05", 
+                    "status": false, 
+                    "uuid": "6ce4fd71-319a-4827-909a-81ebd220d681"
+                }, 
+                {
+                    "record_id": "25432-06", 
+                    "status": false, 
+                    "uuid": "4b137459-1abb-4fea-8159-d0011fa2c879"
+                }, 
+                {
+                    "record_id": "25432-07", 
+                    "status": false, 
+                    "uuid": "26ffb3a7-39a4-4ca9-a989-526f7e9cae4e"
+                }, 
+                {
+                    "record_id": "25432-08", 
+                    "status": false, 
+                    "uuid": "2fff1fe8-9728-4f1f-bf81-535ba74d93f5"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25432", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.002855938933274553, 
+            "j_err": 7.677166862897784e-07, 
+            "mean_j": 0.002856582892298254, 
+            "mean_j_err": 1.3315996371419474e-06, 
             "position": 19
         }, 
         {
-            "analyses": [], 
-            "decay_constants": {}, 
+            "analyses": [
+                {
+                    "record_id": "25433-01", 
+                    "status": false, 
+                    "uuid": "9af5bffd-d0bf-4f9c-8fe0-84fb5f642089"
+                }, 
+                {
+                    "record_id": "25433-02", 
+                    "status": false, 
+                    "uuid": "3a19f83f-811f-4c8d-a954-cad17d2acb0b"
+                }, 
+                {
+                    "record_id": "25433-03", 
+                    "status": false, 
+                    "uuid": "1f8f87a3-e8ce-4be1-b9c8-6426b4809a90"
+                }, 
+                {
+                    "record_id": "25433-04", 
+                    "status": false, 
+                    "uuid": "b11348a3-a983-4f5f-9a47-d99ae03c451e"
+                }, 
+                {
+                    "record_id": "25433-05", 
+                    "status": false, 
+                    "uuid": "00fff824-ff30-454e-9f67-d7c744d7c3a5"
+                }, 
+                {
+                    "record_id": "25433-06", 
+                    "status": false, 
+                    "uuid": "f2f3c903-9982-4bec-9bbf-2c408d2ccfaa"
+                }, 
+                {
+                    "record_id": "25433-07", 
+                    "status": false, 
+                    "uuid": "ad8c937b-3f7a-4556-a119-cbdfd7e7ba8d"
+                }, 
+                {
+                    "record_id": "25433-08", 
+                    "status": false, 
+                    "uuid": "dc4501b7-3219-4e27-bdb5-a4fc301ae8eb"
+                }
+            ], 
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10, 
+                "lambda_k_total_error": 0
+            }, 
             "identifier": "25433", 
-            "j": 0.0012000000000000001, 
-            "j_err": 1.2000000000000002e-06, 
-            "mean_j": 0, 
-            "mean_j_err": 0, 
+            "j": 0.0028554000781476287, 
+            "j_err": 7.677555635564816e-07, 
+            "mean_j": 0.0028549489635364693, 
+            "mean_j_err": 1.203234542812506e-06, 
             "position": 22
         }
     ], 
