@@ -33,7 +33,7 @@ peakcenter:
 peakhop:
   generate_ic_table: false
   hops_name: argon_2CDDF.yaml
-  ncycles: 1
+  ncycles: 10
   use_peak_hop: true
 '''
 
