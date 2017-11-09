@@ -1,7 +1,10 @@
 #===============================================================================
 # EXTRACTION SCRIPT jan_co2_minibone.py
 #===============================================================================
-    
+'''
+modifier: 01
+eqtime: 15
+'''
 def main():
     info('Jan CO22_GP50 laser analysis')
     gosub('jan:WaitForMiniboneAccess')
