@@ -16,8 +16,8 @@ equilibration:
   use_extraction_eqtime: true
 multicollect:
   counts: 400
-  detector: H2
-  isotope: Ar40
+  detector: L2(CDD)
+  isotope: Ar36
 peakcenter:
   after: true
   before: false
