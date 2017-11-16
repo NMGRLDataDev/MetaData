@@ -16,8 +16,8 @@ equilibration:
   use_extraction_eqtime: true
 multicollect:
   counts: 400
-  detector: H2
-  isotope: Ar40
+  detector: L2(CDD)
+  isotope: Ar36
 peakcenter:
   after: false
   before: false
@@ -25,7 +25,7 @@ peakcenter:
   detectors:
   - H1
   - L2(CDD)
-  isotope: Ar40
+  isotope: Ar36
   integration_time: 1.048576
 peakhop:
   hops_name: ''
