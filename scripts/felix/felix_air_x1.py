@@ -2,7 +2,7 @@
 # EXTRACTION SCRIPT felix_air_x1.py
 #===============================================================================
 '''
-modifier: 01
+modifier: 02
 eqtime: 35
 '''
 
@@ -14,7 +14,7 @@ def main():
     gosub('common:FillPipette2')
     gosub('felix:PrepareForAirShotExpansion')
     gosub('common:ExpandPipette2')
-    close(description='Outer Pipette 2')
+    # close(description='Outer Pipette 2')
     
     
 
