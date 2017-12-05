@@ -7,7 +7,7 @@ eqtime: 35
 '''
 
 def main():
-    info("Air Pipette x1")
+    info("Air Pipette x1-3 bone only")
     gosub('felix:WaitForMiniboneAccess')
     gosub('felix:PrepareForAirShot')
     
@@ -20,7 +20,7 @@ def main():
     
     close(name='Q')
     close(name='E')
-    # close(description='Outer Pipette 2')
+    close(description='Outer Pipette 2')
     
     
 
