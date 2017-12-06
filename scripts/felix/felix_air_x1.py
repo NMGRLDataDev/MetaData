@@ -14,7 +14,7 @@ def main():
     gosub('common:FillPipette2')
     gosub('felix:PrepareForAirShotExpansion')
     gosub('common:ExpandPipette2')
-    # close(description='Outer Pipette 2')
+    close(description='Outer Pipette 2')
     
     
 
