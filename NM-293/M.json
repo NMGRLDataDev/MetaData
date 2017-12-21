@@ -139,6 +139,26 @@
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 16
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {}, 
+            "identifier": "", 
+            "j": 0, 
+            "j_err": 0, 
+            "mean_j": 0, 
+            "mean_j_err": 0, 
+            "position": 1
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {}, 
+            "identifier": "", 
+            "j": 0, 
+            "j_err": 0, 
+            "mean_j": 0, 
+            "mean_j_err": 0, 
+            "position": 2
         }
     ], 
     "z": 0
