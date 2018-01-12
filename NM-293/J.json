@@ -165,7 +165,7 @@
             "decay_constants": {}, 
             "identifier": "25689", 
             "j": 0.00188, 
-            "j_err": 2.2500000000000005e-06, 
+            "j_err": 1.88e-06, 
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 17
@@ -175,7 +175,7 @@
             "decay_constants": {}, 
             "identifier": "25690", 
             "j": 0.00188, 
-            "j_err": 2.2500000000000005e-06, 
+            "j_err": 1.88e-06, 
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 18
@@ -185,7 +185,7 @@
             "decay_constants": {}, 
             "identifier": "25691", 
             "j": 0.00188, 
-            "j_err": 2.2500000000000005e-06, 
+            "j_err": 1.88e-06, 
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 19
@@ -195,7 +195,7 @@
             "decay_constants": {}, 
             "identifier": "25692", 
             "j": 0.00188, 
-            "j_err": 2.2500000000000005e-06, 
+            "j_err": 1.88e-06, 
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 20
@@ -205,7 +205,7 @@
             "decay_constants": {}, 
             "identifier": "25693", 
             "j": 0.00188, 
-            "j_err": 2.2500000000000005e-06, 
+            "j_err": 1.88e-06, 
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 21
@@ -215,7 +215,7 @@
             "decay_constants": {}, 
             "identifier": "25694", 
             "j": 0.00188, 
-            "j_err": 2.2500000000000005e-06, 
+            "j_err": 1.88e-06, 
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 22
@@ -225,7 +225,7 @@
             "decay_constants": {}, 
             "identifier": "25695", 
             "j": 0.00188, 
-            "j_err": 2.2500000000000005e-06, 
+            "j_err": 1.88e-06, 
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 23
@@ -235,7 +235,7 @@
             "decay_constants": {}, 
             "identifier": "25696", 
             "j": 0.00188, 
-            "j_err": 2.2500000000000005e-06, 
+            "j_err": 1.88e-06, 
             "mean_j": 0, 
             "mean_j_err": 0, 
             "position": 24
