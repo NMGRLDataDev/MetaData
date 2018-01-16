@@ -32,7 +32,7 @@ def main():
 
         # make sure light is on before moving
         with grain_polygon():
-            with video_recording(run_identifier):
+            with video_recording('{}/{}'.format(load_identifier,run_identifier)):
                 for i,pi in enumerate(position):
                     '''
                     position the laser at pi, pi can be a holenumber or (x,y)
