@@ -11,7 +11,6 @@ def main():
 
     set_motor('beam',beam_diameter)
 
-    cooldown = 2
     accum = 0
     if analysis_type=='blank':
         info('is blank. not heating')
@@ -55,9 +54,8 @@ def main():
                         end_extract()
                 end_extract()
                 disable()
-                sleep(cooldown)
 
-    sleep(max(0,cleanup-cooldown-accum))
+    sleep(max(0,cleanup-accum))
 
 
 def do_extraction():
