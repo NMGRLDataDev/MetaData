@@ -3,36 +3,36 @@
 baseline:
   after: true
   before: false
-  counts: 60
-  detector: H2
-  mass: 39.862
+  counts: 20
+  detector: H1
+  mass: 34.2
   settling_time: 15.0
-default_fits: nominal
+default_fits: nominal_linear
 equilibration:
   eqtime: 1.0
-  inlet: H
+  inlet: R
   inlet_delay: 3
-  outlet: V
+  outlet: O
   use_extraction_eqtime: true
 multicollect:
-  counts: 340
-  detector: L2(CDD)
-  isotope: Ar36
+  counts: 120
+  detector: H1
+  isotope: Ar40
 peakcenter:
-  after: true
+  after: false
   before: false
-  detector: L2(CDD)
+  detector: H1
   detectors:
-  - H2
   - H1
-  - L2(CDD)
-  isotope: Ar36
-  integration_time: 1.048576
+  - AX
+  - CDD
+  isotope: Ar40
+  integration_time: 0.262144
 peakhop:
   hops_name: ''
   use_peak_hop: false
 '''
-ACTIVE_DETECTORS=('H2','H1','AX','L1','L2(CDD)')
+ACTIVE_DETECTORS=('H2','H1','AX','L1','L2','CDD')
     
 def main():
     info('unknown measurement script')
@@ -67,19 +67,15 @@ def main():
     set_baseline_fits()
     
     #multicollect on active detectors
-    multicollect(ncounts=mx.multicollect.counts, integration_time=1.048576)
+    multicollect(ncounts=mx.multicollect.counts, integration_time=1)
     
     if mx.baseline.after:
-        #set_integration_time(4.194)
         baselines(ncounts=mx.baseline.counts,mass=mx.baseline.mass, detector=mx.baseline.detector, 
                   settling_time=mx.baseline.settling_time)
-        #set_integration_time(1.049)
-        
     if mx.peakcenter.after:
         activate_detectors(*mx.peakcenter.detectors, **{'peak_center':True})
-        peak_center(detector=mx.peakcenter.detector,isotope=mx.peakcenter.isotope, 
-                    integration_time=mx.peakcenter.integration_time,
-                    config_name='CDD_on_36')
+        peak_center(detector=mx.peakcenter.detector,isotope=mx.peakcenter.isotope,
+                    integration_time=mx.peakcenter.integration_time)
 
     if use_cdd_warming:
        gosub('warm_cdd', argv=(mx.equilibration.outlet,))    
