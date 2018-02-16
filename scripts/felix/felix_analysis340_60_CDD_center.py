@@ -16,16 +16,16 @@ equilibration:
   use_extraction_eqtime: true
 multicollect:
   counts: 340
-  detector: H2
-  isotope: Ar40
+  detector: L2(CDD)
+  isotope: Ar36
 peakcenter:
   after: true
   before: false
-  detector: H2
+  detector: L2(CDD)
   detectors:
-  - H1
+  - H2
   - L2(CDD)
-  isotope: Ar40
+  isotope: Ar36
   integration_time: 1.048576
 peakhop:
   hops_name: ''
@@ -77,7 +77,8 @@ def main():
     if mx.peakcenter.after:
         activate_detectors(*mx.peakcenter.detectors, **{'peak_center':True})
         peak_center(detector=mx.peakcenter.detector,isotope=mx.peakcenter.isotope, 
-                    integration_time=mx.peakcenter.integration_time)
+                    integration_time=mx.peakcenter.integration_time,
+                    config_name='CDD_on_36')
 
     if use_cdd_warming:
        gosub('warm_cdd', argv=(mx.equilibration.outlet,))    
