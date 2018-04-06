@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 66320,
+            "identifier": "66320",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
@@ -13,7 +13,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 66322,
+            "identifier": "66322",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
@@ -23,7 +23,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 66323,
+            "identifier": "66323",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
@@ -33,7 +33,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 66324,
+            "identifier": "66324",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
@@ -43,7 +43,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 66325,
+            "identifier": "66325",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
@@ -53,7 +53,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 25961,
+            "identifier": "25961",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
@@ -63,7 +63,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 25962,
+            "identifier": "25962",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
@@ -73,7 +73,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 25963,
+            "identifier": "25963",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
@@ -83,7 +83,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 25964,
+            "identifier": "25964",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
@@ -93,7 +93,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 25965,
+            "identifier": "25965",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
@@ -103,7 +103,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 25960,
+            "identifier": "25960",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
@@ -113,7 +113,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 66321,
+            "identifier": "66321",
             "j": 7.999999999999999e-05,
             "j_err": 7.999999999999999e-08,
             "mean_j": 0,
