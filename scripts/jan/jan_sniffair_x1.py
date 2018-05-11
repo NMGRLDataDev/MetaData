@@ -2,7 +2,7 @@
 # EXTRACTION SCRIPT jan_sniffair_x1.py
 #===============================================================================
 '''
-modifier: 01
+modifier: 02
 eqtime: 8
 '''
 def main():
@@ -13,7 +13,7 @@ def main():
     gosub('common:FillPipette2')
     gosub('jan:PrepareForAirShotExpansion')
     gosub('common:SniffPipette2')
-    
+
 #===============================================================================
 # POST EQUILIBRATION SCRIPT jan_pump_extraction_line.py
 #===============================================================================
