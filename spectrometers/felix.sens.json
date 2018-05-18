@@ -1,0 +1,10 @@
+[
+    {
+        "create_date": "2018-05-18 12:54:30",
+        "mass_spectrometer": "felix",
+        "note": "",
+        "sensitivity": 4e-16,
+        "units": "mol/fA",
+        "user": ""
+    }
+]
