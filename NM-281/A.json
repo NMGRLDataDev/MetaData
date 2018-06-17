@@ -7,10 +7,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "64101",
-            "j": 0.00012753876145639572,
-            "j_err": 3.401424189521772e-08,
+            "j": 0.00012772931933860006,
+            "j_err": 3.8018788977078197e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 1
         },
         {
@@ -20,10 +28,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "64102",
-            "j": 0.00012746865144765433,
-            "j_err": 3.119419686686154e-08,
+            "j": 0.0001276540177275523,
+            "j_err": 4.6565753651592164e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 2
         },
         {
@@ -33,10 +49,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "64103",
-            "j": 0.00012745408722501548,
-            "j_err": 2.902605975116822e-08,
+            "j": 0.00012764433511150945,
+            "j_err": 4.754996437979144e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 3
         },
         {
@@ -46,10 +70,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "64104",
-            "j": 0.0001275035955635911,
-            "j_err": 2.8535928150157612e-08,
+            "j": 0.00012770594140907804,
+            "j_err": 4.56250440745236e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 4
         },
         {
@@ -59,10 +91,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "64105",
-            "j": 0.00012758808070912383,
-            "j_err": 3.0352059058930387e-08,
+            "j": 0.00012780264294221148,
+            "j_err": 4.7926718326398004e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 5
         },
         {
@@ -72,10 +112,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "64106",
-            "j": 0.00012765819071786522,
-            "j_err": 3.1962832453051784e-08,
+            "j": 0.00012787794455325924,
+            "j_err": 4.852415687923412e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 6
         },
         {
@@ -85,10 +133,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "64107",
-            "j": 0.00012767275494050408,
-            "j_err": 3.419170151503844e-08,
+            "j": 0.0001278876271693021,
+            "j_err": 4.1102564167454345e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 7
         },
         {
@@ -98,17 +154,25 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "64108",
-            "j": 0.0001276232707836258,
-            "j_err": 3.520940866154624e-08,
+            "j": 0.00012782604514001617,
+            "j_err": 3.263129737094408e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 8
         },
         {
             "analyses": [
                 {
                     "record_id": "24751-01",
-                    "status": true,
+                    "status": false,
                     "uuid": "c0c1a45d-ea9a-49c9-8736-a70d0264a2cb"
                 },
                 {
@@ -147,10 +211,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "24751",
-            "j": 0.00012758243203700936,
-            "j_err": 3.47739887623547e-08,
-            "mean_j": 0.00012758843939359116,
-            "mean_j_err": 6.675418328814696e-08,
+            "j": 0.00012777860780765042,
+            "j_err": 3.3534903046016674e-08,
+            "mean_j": 0.00012779729320102904,
+            "mean_j_err": 4.6521410385357674e-08,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 9
         },
         {
@@ -177,7 +249,7 @@
                 },
                 {
                     "record_id": "24752-05",
-                    "status": true,
+                    "status": false,
                     "uuid": "568831a6-4b7a-40c6-b717-dccdf2f7447e"
                 },
                 {
@@ -191,10 +263,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "24752",
-            "j": 0.00012749878141443734,
-            "j_err": 3.284984652935294e-08,
-            "mean_j": 0.00012745346888283049,
-            "mean_j_err": 3.201505167092504e-08,
+            "j": 0.00012768553923985684,
+            "j_err": 4.257327363876837e-08,
+            "mean_j": 0.00012771438026199444,
+            "mean_j_err": 4.4165676393132286e-08,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 10
         },
         {
@@ -230,10 +310,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "24753",
-            "j": 0.00012745295709801668,
-            "j_err": 2.966980907171304e-08,
-            "mean_j": 0.00012747637554645497,
-            "mean_j_err": 6.181305915156704e-08,
+            "j": 0.00012763955084419554,
+            "j_err": 4.7926298049687546e-08,
+            "mean_j": 0.0001275994477649974,
+            "mean_j_err": 1.0531481235794653e-07,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 11
         },
         {
@@ -274,10 +362,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "24754",
-            "j": 0.00012747184913516684,
-            "j_err": 2.7660439311985606e-08,
-            "mean_j": 0.00012746655321400877,
-            "mean_j_err": 3.74186520866556e-08,
+            "j": 0.00012766762895099655,
+            "j_err": 4.667755005520349e-08,
+            "mean_j": 0.00012761862504166038,
+            "mean_j_err": 6.893862589777588e-08,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 12
         },
         {
@@ -318,10 +414,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "24755",
-            "j": 0.0001275444101285102,
-            "j_err": 2.8953148113189895e-08,
-            "mean_j": 0.00012755545138034302,
-            "mean_j_err": 3.041837435644118e-08,
+            "j": 0.00012775335447316112,
+            "j_err": 4.648657595297304e-08,
+            "mean_j": 0.00012782154264827264,
+            "mean_j_err": 4.2590642836005735e-08,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 13
         },
         {
@@ -357,10 +461,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "24756",
-            "j": 0.00012762806075108222,
-            "j_err": 3.0780978712466956e-08,
-            "mean_j": 0.00012764290091743323,
-            "mean_j_err": 6.901336872711162e-08,
+            "j": 0.0001278464230409547,
+            "j_err": 4.911529893983817e-08,
+            "mean_j": 0.00012789772682056768,
+            "mean_j_err": 1.1569984582695475e-07,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 14
         },
         {
@@ -401,10 +513,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "24757",
-            "j": 0.00012767388506750287,
-            "j_err": 3.309801573425615e-08,
-            "mean_j": 0.00012760717238820268,
-            "mean_j_err": 3.121968232087104e-08,
+            "j": 0.000127892411436616,
+            "j_err": 4.592027811974372e-08,
+            "mean_j": 0.00012777099930728452,
+            "mean_j_err": 4.212798446861442e-08,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 15
         },
         {
@@ -445,10 +565,18 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "24758",
-            "j": 0.0001276549930303527,
-            "j_err": 3.468548863624118e-08,
-            "mean_j": 0.00012771700693921375,
-            "mean_j_err": 6.408437432151057e-08,
+            "j": 0.000127864333329815,
+            "j_err": 3.609871525448987e-08,
+            "mean_j": 0.00012790783407743992,
+            "mean_j_err": 6.457051064823517e-08,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_sample_name": "",
+                "monte_carlo_ntrials": 100000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": false
+            },
             "position": 16
         }
     ],
