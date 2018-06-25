@@ -43,6 +43,17 @@
             "mean_j_err": 0,
             "options": {},
             "position": 12
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 13
         }
     ],
     "z": 0
