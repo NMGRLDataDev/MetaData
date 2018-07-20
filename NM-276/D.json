@@ -1,0 +1,45 @@
+{
+    "positions": [
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "63630",
+            "j": 0.0038,
+            "j_err": 9.8e-07,
+            "position": 3
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "63632",
+            "j": 0.0038,
+            "j_err": 9.8e-07,
+            "position": 5
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "63634",
+            "j": 0.0038,
+            "j_err": 9.8e-07,
+            "position": 7
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "63636",
+            "j": 0.0038,
+            "j_err": 9.8e-07,
+            "position": 9
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "63638",
+            "j": 0.0038,
+            "j_err": 9.8e-07,
+            "position": 11
+        }
+    ],
+    "z": 0
+}

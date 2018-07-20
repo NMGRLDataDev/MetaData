@@ -1,0 +1,21 @@
+{
+    "positions": [
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "63646",
+            "j": 0.0038,
+            "j_err": 9.8e-07,
+            "position": 3
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "63648",
+            "j": 0.0038,
+            "j_err": 9.8e-07,
+            "position": 5
+        }
+    ],
+    "z": 0
+}
