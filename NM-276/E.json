@@ -6,6 +6,9 @@
             "identifier": "63646",
             "j": 0.0038,
             "j_err": 9.8e-07,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
             "position": 3
         },
         {
@@ -14,8 +17,11 @@
             "identifier": "63648",
             "j": 0.0038,
             "j_err": 9.8e-07,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
             "position": 5
         }
     ],
-    "z": 0
+    "z": 0.0
 }
