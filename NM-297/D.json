@@ -65,7 +65,7 @@
             "decay_constants": {},
             "identifier": "66475",
             "j": 0.00195,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "position": 18
@@ -75,7 +75,7 @@
             "decay_constants": {},
             "identifier": "66476",
             "j": 0.00195,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "position": 20
@@ -84,7 +84,7 @@
             "analyses": [],
             "decay_constants": {},
             "identifier": "66477",
-            "j": 0,
+            "j": 0.001965,
             "j_err": 0,
             "mean_j": 0,
             "mean_j_err": 0,
