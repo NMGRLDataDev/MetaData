@@ -7,7 +7,7 @@ baseline:
   detector: H1
   mass: 34.2
   settling_time: 15.0
-default_fits: nominal
+default_fits: average
 equilibration:
   eqtime: 1.0
   inlet: R
@@ -61,6 +61,8 @@ def main():
     e.g sniff(<equilibration_time>) or sleep(<equilibration_time>)
     '''
 
+    set_integration_time(1)
+
     equilibrate(eqtime=eqt, inlet=mx.equilibration.inlet, outlet=mx.equilibration.outlet,
                delay=mx.equilibration.inlet_delay)
 
@@ -71,7 +73,7 @@ def main():
     set_baseline_fits()
 
     #multicollect on active detectors
-    multicollect(ncounts=mx.multicollect.counts, integration_time=4)
+    multicollect(ncounts=mx.multicollect.counts)
 
     if mx.baseline.after:
         baselines(ncounts=mx.baseline.counts,mass=mx.baseline.mass, detector=mx.baseline.detector,
