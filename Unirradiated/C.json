@@ -176,6 +176,17 @@
             "options": {},
             "position": 16
         }
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "66408",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 17
+        }
     ],
     "z": 0
 }
