@@ -1,7 +1,7 @@
 #!Measurement
 '''
 baseline:
-  after: false
+  after: true
   before: false
   counts: 60
   detector: H1
@@ -20,7 +20,7 @@ multicollect:
   detector: H1
   isotope: Ar40
 peakcenter:
-  after: true
+  after: false
   before: false
   detector: H1
   detectors:
