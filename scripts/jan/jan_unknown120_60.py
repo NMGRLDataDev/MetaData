@@ -14,6 +14,7 @@ equilibration:
   inlet_delay: 3
   outlet: O
   use_extraction_eqtime: true
+  post_equilibration_delay: 5
 multicollect:
   counts: 120
   detector: H1
@@ -66,6 +67,9 @@ def main():
     set_fits()
     set_baseline_fits()
     
+    # delay to migitate 39Ar spike from inlet valve close
+    sleep(mx.equilibration.post_equilibration_delay)
+
     #multicollect on active detectors
     multicollect(ncounts=mx.multicollect.counts, integration_time=1)
     
