@@ -16,7 +16,6 @@ def main():
     gosub('common:FillPipette1')
     gosub('jan:PrepareForAirShotExpansion')
     gosub('common:ExpandPipette1')
-    sleep(1800)
 
 #===============================================================================
 # POST EQUILIBRATION SCRIPT jan_pump_extraction_line.py
@@ -30,10 +29,14 @@ def main():
         gosub('jan:PumpMiniboneAfterDiodeAnalysis')
     else:
         gosub('jan:PumpMicrobone')
-        v=get_resource_value(name='JanMiniboneFlag')  
+        v=get_resource_value(name='JanMiniboneFlag')
         info('get resource value {}'.format(v))
-        if get_resource_value(name='JanMiniboneFlag'):
+        if v:
+            info('Pumping Minibone')
             gosub('jan:PumpMinibone')
+        else:
+            info('Not Pumping Minibone')
+
 #===============================================================================
 # POST MEASUREMENT SCRIPT jan_pump_ms.py
 #===============================================================================
