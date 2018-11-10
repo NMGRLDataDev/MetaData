@@ -80,7 +80,8 @@ def main():
         activate_detectors(*mx.peakcenter.detectors, **{'peak_center':True})
         peak_center(detector=mx.peakcenter.detector,isotope=mx.peakcenter.isotope,
                     integration_time=mx.peakcenter.integration_time)
-
+    else:
+        position_magnet(mx.multicollect.isotope, detector=mx.multicollect.detector)
     if use_cdd_warming:
        gosub('warm_cdd', argv=(mx.equilibration.outlet,))
 
