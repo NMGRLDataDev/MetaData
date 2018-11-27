@@ -3,10 +3,10 @@
 baseline:
   after: true
   before: false
-  counts: 60
+  counts: 120
   detector: H1
   mass: 34.2
-  settling_time: 15.0
+  settling_time: 20.0
 default_fits: nominal_linear
 equilibration:
   eqtime: 20.0
@@ -15,7 +15,7 @@ equilibration:
   outlet: O
   use_extraction_eqtime: true
 multicollect:
-  counts: 240
+  counts: 400
   detector: H1
   isotope: Ar40
 peakcenter:
@@ -51,7 +51,7 @@ whiff:
 
 
 ACTIVE_DETECTORS=('H2','H1','AX','L1','L2', 'CDD')
-#FITS=('Ar41:linear','Ar40:linear', 'Ar39:parabolic','Ar38:parabolic','Ar37:parabolic','Ar36:parabolic')
+#FITS=('Ar41:linear','Ar40:linear', 'Ar39:linear','Ar38:linear','Ar37:linear','Ar36:linear')
 
 def main():
 
@@ -70,13 +70,13 @@ def main():
     position_magnet(mx.multicollect.isotope, detector=mx.multicollect.detector)
 
     #gas is staged behind inlet
-    
+
     #make a pipette volume
     close('S')
-    
+
     meqtime = mx.whiff.eqtime
     equil(meqtime, False)
-    
+
     result = whiff(ncounts=mx.whiff.counts, conditionals=mx.whiff.conditionals)
     info('Whiff result={}'.format(result))
     wab=1.0
@@ -98,35 +98,35 @@ def main():
         close('R')
         open('S')
         sleep(3)
-        close('A')
+        close('T')
         sleep(3)
-        
+
         # pump out microbone
         open('U')
         sleep(15)
         close('U')
         sleep(1)
-        open('A')
+        open('T')
         equil(eqtime)
-        
+
     elif result=='pump':
         reset_measurement(ACTIVE_DETECTORS)
         activate_detectors(*ACTIVE_DETECTORS)
-        
+
         #pump out spectrometer and sniff volume
         open('R')
         open(mx.equilibration.outlet)
         sleep(15)
         #close(mx.equilibration.outlet)
-        
+
         close('R')
         open('S')
         sleep(3)
         close('T')
         sleep(3)
-        
+
         equil(eqtime)
-        
+
     multicollect(ncounts=mx.multicollect.counts*wab, integration_time=1)
     if mx.baseline.after:
         baselines(ncounts=mx.baseline.counts*wab, mass=mx.baseline.mass, detector=mx.baseline.detector,
