@@ -6,7 +6,7 @@ baseline:
   counts: 40
   detector: H1
   mass: 34.2
-  settling_time: 15.0
+  settling_time: 20.0
 default_fits: nominal_linear
 equilibration:
   eqtime: 20.0
@@ -98,7 +98,7 @@ def main():
         close('R')
         open('S')
         sleep(3)
-        close('A')
+        close('T')
         sleep(3)
         
         # pump out microbone
@@ -106,7 +106,7 @@ def main():
         sleep(15)
         close('U')
         sleep(1)
-        open('A')
+        open('T')
         equil(eqtime)
         
     elif result=='pump':
