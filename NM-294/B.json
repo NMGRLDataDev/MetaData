@@ -8,7 +8,7 @@
             },
             "identifier": "66143",
             "j": 0.003943049473541774,
-            "j_err": 9.169430057403592e-07,
+            "j_err": 9.152526269800321e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -22,7 +22,7 @@
                 "use_weighted_fit": false
             },
             "position": 2,
-            "position_jerr": 1.501742618688604e-05
+            "position_jerr": 7.48435003972777e-05
         },
         {
             "analyses": [],
@@ -32,7 +32,7 @@
             },
             "identifier": "66144",
             "j": 0.003944307982471636,
-            "j_err": 9.270159980043949e-07,
+            "j_err": 9.178956118790451e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -46,7 +46,7 @@
                 "use_weighted_fit": false
             },
             "position": 3,
-            "position_jerr": 1.4931913960476594e-05
+            "position_jerr": 7.465864097144065e-05
         },
         {
             "analyses": [],
@@ -56,7 +56,7 @@
             },
             "identifier": "66145",
             "j": 0.003947341812003427,
-            "j_err": 8.947378482650596e-07,
+            "j_err": 8.779896426455202e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -70,7 +70,7 @@
                 "use_weighted_fit": false
             },
             "position": 5,
-            "position_jerr": 1.5162591594470967e-05
+            "position_jerr": 7.523769928097596e-05
         },
         {
             "analyses": [],
@@ -79,8 +79,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "66146",
-            "j": 0.0039489124207611045,
-            "j_err": 8.593000870762919e-07,
+            "j": 0.003948912420761104,
+            "j_err": 8.443023426637682e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -94,7 +94,7 @@
                 "use_weighted_fit": false
             },
             "position": 6,
-            "position_jerr": 1.496738548452614e-05
+            "position_jerr": 7.418168354701894e-05
         },
         {
             "analyses": [],
@@ -103,8 +103,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "66147",
-            "j": 0.003951629620153795,
-            "j_err": 7.891978592743638e-07,
+            "j": 0.0039516296201537945,
+            "j_err": 7.940708515104163e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -118,7 +118,7 @@
                 "use_weighted_fit": false
             },
             "position": 8,
-            "position_jerr": 1.507614328092165e-05
+            "position_jerr": 7.532704197422797e-05
         },
         {
             "analyses": [],
@@ -128,7 +128,7 @@
             },
             "identifier": "66148",
             "j": 0.003952592125715449,
-            "j_err": 8.116087523077319e-07,
+            "j_err": 8.202189799766753e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -142,7 +142,7 @@
                 "use_weighted_fit": false
             },
             "position": 9,
-            "position_jerr": 1.515841017247215e-05
+            "position_jerr": 7.482021892508907e-05
         },
         {
             "analyses": [],
@@ -152,7 +152,7 @@
             },
             "identifier": "66149",
             "j": 0.003953400747996605,
-            "j_err": 9.861369823971056e-07,
+            "j_err": 9.966399066937319e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -166,7 +166,7 @@
                 "use_weighted_fit": false
             },
             "position": 11,
-            "position_jerr": 1.5042394428968639e-05
+            "position_jerr": 7.541941966657805e-05
         },
         {
             "analyses": [],
@@ -176,7 +176,7 @@
             },
             "identifier": "66150",
             "j": 0.003953192301809147,
-            "j_err": 1.1196663993679376e-06,
+            "j_err": 1.1215798022606678e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -190,7 +190,7 @@
                 "use_weighted_fit": false
             },
             "position": 12,
-            "position_jerr": 1.4902958831884103e-05
+            "position_jerr": 7.382814256203576e-05
         },
         {
             "analyses": [],
@@ -200,7 +200,7 @@
             },
             "identifier": "66151",
             "j": 0.00395161874094635,
-            "j_err": 1.351749347962974e-06,
+            "j_err": 1.3316621788309983e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -214,7 +214,7 @@
                 "use_weighted_fit": false
             },
             "position": 14,
-            "position_jerr": 1.5038932978957966e-05
+            "position_jerr": 7.397813615585367e-05
         },
         {
             "analyses": [],
@@ -224,7 +224,7 @@
             },
             "identifier": "66152",
             "j": 0.003950360232016488,
-            "j_err": 1.4157812409281573e-06,
+            "j_err": 1.3896153822876493e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -238,7 +238,7 @@
                 "use_weighted_fit": false
             },
             "position": 15,
-            "position_jerr": 1.4696751542253151e-05
+            "position_jerr": 7.45280767086057e-05
         },
         {
             "analyses": [],
@@ -248,7 +248,7 @@
             },
             "identifier": "66153",
             "j": 0.003947326402484697,
-            "j_err": 1.42106365878763e-06,
+            "j_err": 1.3834602743114323e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -262,7 +262,7 @@
                 "use_weighted_fit": false
             },
             "position": 17,
-            "position_jerr": 1.5071847353415575e-05
+            "position_jerr": 7.491189387687284e-05
         },
         {
             "analyses": [],
@@ -271,8 +271,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "66154",
-            "j": 0.0039457557937270194,
-            "j_err": 1.3734106688671265e-06,
+            "j": 0.00394575579372702,
+            "j_err": 1.3214328858667598e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -286,7 +286,7 @@
                 "use_weighted_fit": false
             },
             "position": 18,
-            "position_jerr": 1.5005463621680527e-05
+            "position_jerr": 7.383009543299307e-05
         },
         {
             "analyses": [],
@@ -295,8 +295,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "66155",
-            "j": 0.0039430385943343286,
-            "j_err": 1.1764177924168883e-06,
+            "j": 0.003943038594334329,
+            "j_err": 1.161313161066711e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -310,7 +310,7 @@
                 "use_weighted_fit": false
             },
             "position": 20,
-            "position_jerr": 1.5156098798552549e-05
+            "position_jerr": 7.475961265151511e-05
         },
         {
             "analyses": [],
@@ -320,7 +320,7 @@
             },
             "identifier": "66156",
             "j": 0.003942076088772675,
-            "j_err": 1.0468276278875832e-06,
+            "j_err": 1.0604361203768162e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -334,7 +334,7 @@
                 "use_weighted_fit": false
             },
             "position": 21,
-            "position_jerr": 1.4760644365505538e-05
+            "position_jerr": 7.584468255602593e-05
         },
         {
             "analyses": [],
@@ -344,7 +344,7 @@
             },
             "identifier": "66157",
             "j": 0.003941267466491519,
-            "j_err": 9.084172998950691e-07,
+            "j_err": 9.119365393096933e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -358,7 +358,7 @@
                 "use_weighted_fit": false
             },
             "position": 23,
-            "position_jerr": 1.4982693542885319e-05
+            "position_jerr": 7.439859556238583e-05
         },
         {
             "analyses": [],
@@ -368,7 +368,7 @@
             },
             "identifier": "66158",
             "j": 0.003941475912678977,
-            "j_err": 8.89648831856022e-07,
+            "j_err": 8.896163824712038e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -382,7 +382,7 @@
                 "use_weighted_fit": false
             },
             "position": 24,
-            "position_jerr": 1.499176238008806e-05
+            "position_jerr": 7.61718703678639e-05
         },
         {
             "analyses": [
@@ -390,11 +390,6 @@
                     "record_id": "25833-01",
                     "status": false,
                     "uuid": "9aaeebf9-31d2-473e-8f36-25e0d622b9eb"
-                },
-                {
-                    "record_id": "25833-02",
-                    "status": true,
-                    "uuid": "332a58ac-9589-4d8d-a169-6dfada231005"
                 },
                 {
                     "record_id": "25833-03",
@@ -423,9 +418,9 @@
             },
             "identifier": "25833",
             "j": 0.003942083793532039,
-            "j_err": 8.996296347407235e-07,
+            "j_err": 8.973661213695436e-07,
             "mean_j": 0.003944412210078089,
-            "mean_j_err": 1.2812360775599163e-06,
+            "mean_j_err": 1.2812360775599165e-06,
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
@@ -437,7 +432,7 @@
                 "use_weighted_fit": false
             },
             "position": 1,
-            "position_jerr": 1.4996455947414129e-05
+            "position_jerr": 7.397749270312599e-05
         },
         {
             "analyses": [
@@ -477,8 +472,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "25834",
-            "j": 0.003945771425588711,
-            "j_err": 9.253006249087558e-07,
+            "j": 0.00394577142558871,
+            "j_err": 9.088952534663973e-07,
             "mean_j": 0.003943792850231697,
             "mean_j_err": 1.5557086716932048e-06,
             "options": {
@@ -492,7 +487,7 @@
                 "use_weighted_fit": false
             },
             "position": 4,
-            "position_jerr": 1.50612101991096e-05
+            "position_jerr": 7.502585673387984e-05
         },
         {
             "analyses": [
@@ -532,10 +527,10 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "25835",
-            "j": 0.00395037462322418,
-            "j_err": 8.139900446432658e-07,
-            "mean_j": 0.003952267311542153,
-            "mean_j_err": 1.1656573248964771e-06,
+            "j": 0.003950374623224179,
+            "j_err": 8.078437139522494e-07,
+            "mean_j": 0.003952267311542152,
+            "mean_j_err": 1.165657324896477e-06,
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
@@ -547,7 +542,7 @@
                 "use_weighted_fit": false
             },
             "position": 7,
-            "position_jerr": 1.5168359792721262e-05
+            "position_jerr": 7.477440026874873e-05
         },
         {
             "analyses": [
@@ -587,10 +582,10 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "25836",
-            "j": 0.0039531970544633924,
-            "j_err": 8.827535475187598e-07,
+            "j": 0.003953197054463392,
+            "j_err": 8.927334622630166e-07,
             "mean_j": 0.0039521080852367154,
-            "mean_j_err": 7.526830616881287e-07,
+            "mean_j_err": 7.526830616881289e-07,
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
@@ -602,7 +597,7 @@
                 "use_weighted_fit": false
             },
             "position": 10,
-            "position_jerr": 1.5045682194056225e-05
+            "position_jerr": 7.435394626037245e-05
         },
         {
             "analyses": [
@@ -643,9 +638,9 @@
             },
             "identifier": "25837",
             "j": 0.0039525844209560845,
-            "j_err": 1.2436324113732876e-06,
+            "j_err": 1.2367088354702214e-06,
             "mean_j": 0.003951784676499087,
-            "mean_j_err": 1.9356728990091573e-06,
+            "mean_j_err": 1.935672899009157e-06,
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
@@ -657,7 +652,7 @@
                 "use_weighted_fit": false
             },
             "position": 13,
-            "position_jerr": 1.5085587204961493e-05
+            "position_jerr": 7.449677770017283e-05
         },
         {
             "analyses": [
@@ -697,8 +692,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "25838",
-            "j": 0.003948896788899413,
-            "j_err": 1.4328153667105276e-06,
+            "j": 0.003948896788899414,
+            "j_err": 1.4026700099245664e-06,
             "mean_j": 0.003950531850180334,
             "mean_j_err": 2.9895498587213385e-06,
             "options": {
@@ -712,7 +707,7 @@
                 "use_weighted_fit": false
             },
             "position": 16,
-            "position_jerr": 1.5173299545623119e-05
+            "position_jerr": 7.491939255665822e-05
         },
         {
             "analyses": [
@@ -752,10 +747,10 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "25839",
-            "j": 0.003944293591263944,
-            "j_err": 1.2825970877565056e-06,
+            "j": 0.003944293591263945,
+            "j_err": 1.2463190226668339e-06,
             "mean_j": 0.003944203598446178,
-            "mean_j_err": 1.8240998647122867e-06,
+            "mean_j_err": 1.824099864712287e-06,
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
@@ -767,7 +762,7 @@
                 "use_weighted_fit": false
             },
             "position": 19,
-            "position_jerr": 1.5064736972878935e-05
+            "position_jerr": 7.560286034554201e-05
         },
         {
             "analyses": [
@@ -807,8 +802,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "25840",
-            "j": 0.0039414711600247315,
-            "j_err": 9.697718842610112e-07,
+            "j": 0.003941471160024732,
+            "j_err": 9.738873319307448e-07,
             "mean_j": 0.003939572275738244,
             "mean_j_err": 1.3958310178339988e-06,
             "options": {
@@ -822,7 +817,7 @@
                 "use_weighted_fit": false
             },
             "position": 22,
-            "position_jerr": 1.4925179525876932e-05
+            "position_jerr": 7.475679054159032e-05
         }
     ],
     "z": 0.0
