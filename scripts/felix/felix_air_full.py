@@ -22,7 +22,7 @@ def main():
     gosub('common:ExpandPipette2')
     
     #close(name='B')
-    #close(name='Q')
+    close(name='Q')
     #close(name='E')
     #close(name='D')
     #close(name='N')
