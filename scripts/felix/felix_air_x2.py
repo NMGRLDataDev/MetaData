@@ -49,10 +49,3 @@ def main():
     gosub('felix:PumpBone')
     if get_resource_value(name='FelixMiniboneFlag'):
         gosub('felix:PumpMinibone')
-#===============================================================================
-# POST MEASUREMENT SCRIPT felix_pump_ms.py
-#===============================================================================
-def main():
-	info('Pumping spectrometer')
-	open(name='V')
-	
