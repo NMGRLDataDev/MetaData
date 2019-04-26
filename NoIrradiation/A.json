@@ -10,78 +10,6 @@
     {
         "analyses": [], 
         "decay_constants": {}, 
-        "identifier": "a-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 1
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bc-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 2
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bu-FC-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 3
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "c-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 4
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "a-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 1
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bc-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 2
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "bu-FC-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 3
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "c-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 4
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
-        "identifier": "a-01-J", 
-        "j": 0, 
-        "j_err": 0, 
-        "position": 1
-    }, 
-    {
-        "analyses": [], 
-        "decay_constants": {}, 
         "identifier": "bc-01-J", 
         "j": 0, 
         "j_err": 0, 
@@ -282,9 +210,17 @@
 	{
         "analyses": [], 
         "decay_constants": {}, 
-        "identifier": "3000", 
+        "identifier": "4313", 
         "j": 0, 
         "j_err": 0, 
         "position": 26
+    }
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": "ic-02-J", 
+        "j": 0, 
+        "j_err": 0, 
+        "position": 27
     }
 ]
