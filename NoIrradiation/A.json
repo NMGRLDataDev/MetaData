@@ -214,7 +214,7 @@
         "j": 0, 
         "j_err": 0, 
         "position": 26
-    }
+    },
     {
         "analyses": [], 
         "decay_constants": {}, 
@@ -222,5 +222,13 @@
         "j": 0, 
         "j_err": 0, 
         "position": 27
+    },
+   {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": "ic-02-J", 
+        "j": 0, 
+        "j_err": 0, 
+        "position": 28
     }
 ]
