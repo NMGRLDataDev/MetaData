@@ -9,7 +9,7 @@ BASELINE_DETECTOR= 'H1'
 BASELINE_MASS= 34.2
 BASELINE_BEFORE= False
 BASELINE_AFTER= True
-BASELINE_SETTLING_TIME= 10
+BASELINE_SETTLING_TIME= 15
 
 #equilibration
 EQ_TIME= eqtime
@@ -22,14 +22,14 @@ FITS = ('Ar40H1:parabolic','Ar40AX:parabolic','Ar40L2:parabolic')
 BASELINE_FITS=('average_SEM',)
 
 NCYCLES=6
-GENERATE_ICMFTABLE=False
+GENERATE_ICMFTABLE=True
 
 def main():
     info('unknown measurement script')
 
     # protect the CDD
     set_deflection('CDD', 2000)
-    #activate_detectors(*ACTIVE_DETECTORS)
+    activate_detectors(*ACTIVE_DETECTORS)
 
     hops=load_hops('hops/ic3_hops.yaml')
     info(hops)
