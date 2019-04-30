@@ -46,7 +46,7 @@ def main():
     #if PEAK_CENTER_BEFORE:
     #    peak_center(detector=PEAK_CENTER_DETECTOR,isotope=PEAK_CENTER_ISOTOPE)
 
-    set_deflection('L2(CDD)', 2000)
+    set_deflection('L2(CDD)', 3250)
 
     #position_magnet('Ar40', detector='H1')
 
@@ -96,6 +96,6 @@ def main():
     if USE_WARM_CDD:
        gosub('warm_cdd', argv=(OUTLET,))
 
-    set_deflection('L2(CDD)', 50)
+    set_deflection('L2(CDD)', 0)
 
     info('finished measure script')
