@@ -34,3 +34,11 @@ def main():
             gosub('jan:PumpMinibone')
         else:
             info('Not Pumping Minibone')
+
+#===============================================================================
+# POST MEASUREMENT SCRIPT jan_pump_ms.py
+#===============================================================================
+def main():
+    info('Pumping spectrometer')
+    open(name='O')
+    
