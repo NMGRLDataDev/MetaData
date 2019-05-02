@@ -1,4 +1,25 @@
 {
-    "positions": [],
-    "z": 0
+    "positions": [
+        {
+            "analyses": [], 
+            "decay_constants": {}, 
+            "identifier": "c-03-F", 
+            "j": 0.0192, 
+            "j_err": 1.92e-5, 
+            "mean_j": 0, 
+            "mean_j_err": 0, 
+            "position": 1
+        }, 
+        {
+            "analyses": [], 
+            "decay_constants": {}, 
+            "identifier": "c-03-J", 
+            "j": 0.0192, 
+            "j_err": 1.92e-5, 
+            "mean_j": 0, 
+            "mean_j_err": 0, 
+            "position": 2
+        }
+    ], 
+    "z": 0.0
 }

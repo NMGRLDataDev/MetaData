@@ -226,9 +226,25 @@
    {
         "analyses": [], 
         "decay_constants": {}, 
-        "identifier": "ic-02-J", 
+        "identifier": "ic-02-F", 
         "j": 0, 
         "j_err": 0, 
         "position": 28
+    },
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": "c-03-F", 
+        "j": 0, 
+        "j_err": 0, 
+        "position": 29
+    },
+    {
+        "analyses": [], 
+        "decay_constants": {}, 
+        "identifier": "c-03-J", 
+        "j": 0, 
+        "j_err": 0, 
+        "position": 30
     }
 ]
