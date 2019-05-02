@@ -2,7 +2,7 @@
 # EXTRACTION SCRIPT jan_cocktail_x1.py
 #===============================================================================
 '''
-modifier: 02
+modifier: 03
 eqtime: 15
 '''
 def main():
