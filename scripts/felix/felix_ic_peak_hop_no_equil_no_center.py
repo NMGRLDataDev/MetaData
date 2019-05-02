@@ -46,7 +46,7 @@ def main():
     #if PEAK_CENTER_BEFORE:
     #    peak_center(detector=PEAK_CENTER_DETECTOR,isotope=PEAK_CENTER_ISOTOPE)
 
-    set_deflection('L2(CDD)', 3250)
+    #set_deflection('L2(CDD)', 3250)
 
     #position_magnet('Ar40', detector='H1')
 
@@ -75,7 +75,7 @@ def main():
     #multicollect on active detectors
     #multicollect(ncounts=MULTICOLLECT_COUNTS, integration_time=1)
     if GENERATE_ICMFTABLE:
-        generate_ic_mftable(('H2','H1','L1'), peak_center_config='ic_peakhop')
+        generate_ic_mftable(('H2','H1','L1'), peak_center_config='ic_peakhop', n=3)
         set_time_zero()
 
     peak_hop(ncycles=NCYCLES, hops=hops, mftable='ic_mftable')
@@ -96,6 +96,6 @@ def main():
     if USE_WARM_CDD:
        gosub('warm_cdd', argv=(OUTLET,))
 
-    set_deflection('L2(CDD)', 0)
+    #set_deflection('L2(CDD)', 0)
 
     info('finished measure script')
