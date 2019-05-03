@@ -1,4 +1,77 @@
 {
-    "positions": [],
+    "positions": [
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "61646",
+            "j": 0.00048239131422205,
+            "j_err": 1.65648773961476e-06,
+            "position": 2
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "61647",
+            "j": 0.000483650350012696,
+            "j_err": 1.73084904517108e-06,
+            "position": 4
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "61648",
+            "j": 0.000484578344232556,
+            "j_err": 1.74129549886754e-06,
+            "position": 6
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "61650",
+            "j": 0.000483982738764967,
+            "j_err": 1.65648773961476e-06,
+            "position": 10
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "61651",
+            "j": 0.000482790180635229,
+            "j_err": 1.65648773961476e-06,
+            "position": 12
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "61652",
+            "j": 0.000481531144844583,
+            "j_err": 1.73084904517108e-06,
+            "position": 14
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "61653",
+            "j": 0.000480603150624723,
+            "j_err": 1.74129549886754e-06,
+            "position": 16
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "61654",
+            "j": 0.000480470195079041,
+            "j_err": 1.73084904517108e-06,
+            "position": 18
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "61655",
+            "j": 0.000481198756092312,
+            "j_err": 1.65648773961476e-06,
+            "position": 20
+        }
+    ],
     "z": 0.0
 }
