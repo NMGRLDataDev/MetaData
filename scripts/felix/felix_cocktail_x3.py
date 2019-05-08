@@ -2,7 +2,7 @@
 # EXTRACTION SCRIPT felix_cocktail_x3.py
 #===============================================================================
 '''
-modifier: 02
+modifier: 03
 eqtime: 30
 '''
 
