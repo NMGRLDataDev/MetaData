@@ -3,7 +3,7 @@
 #===============================================================================
 '''
 modifier: 02
-eqtime: 35
+eqtime: 30
 '''
 
 def main():
@@ -27,6 +27,7 @@ def main():
     close(name='D')
     close(name='N')
     close(description='Outer Pipette 2')
+    sleep(3)
     
     
 
