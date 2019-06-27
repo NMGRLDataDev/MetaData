@@ -2,6 +2,7 @@
 # EXTRACTION SCRIPT jan_co2_microbone_only.py
 #===============================================================================
 """
+eqtime: 12
 """
 def main(do_cleanup=True, degas=False):
     set_motor('beam',beam_diameter)
