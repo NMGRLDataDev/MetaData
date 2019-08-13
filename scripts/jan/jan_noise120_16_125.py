@@ -16,7 +16,7 @@ equilibration:
   outlet: O
   use_extraction_eqtime: true
 multicollect:
-  counts: 75
+  counts: 17
   detector: H1
   isotope: Ar40
   integration_time: 16
