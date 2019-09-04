@@ -9,7 +9,7 @@ def main():
     info('Jan Air Script x1')
     gosub('jan:WaitForMiniboneAccess')
     gosub('jan:PrepareForAirShot')
-    #open('T')
+    open('T')
     open('Q')
     gosub('jan:EvacPipette2')
     gosub('common:FillPipette2')
