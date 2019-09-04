@@ -35,7 +35,7 @@ FITS = ('Ar40H2:parabolic','Ar40H1:parabolic','Ar40L1:parabolic')
 BASELINE_FITS=('average_SEM',)
 USE_WARM_CDD=False
 
-NCYCLES=3
+NCYCLES=6
 GENERATE_ICMFTABLE=True
 
 def main():
