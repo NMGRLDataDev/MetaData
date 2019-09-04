@@ -26,22 +26,22 @@ INLET= 'H'
 OUTLET= 'V'
 EQ_DELAY= 3.0
 
-ACTIVE_DETECTORS=('H2','H1','AX','L1')
+ACTIVE_DETECTORS=('H2','H1','L1')
 #ACTIVE_DETECTORS=('H2','H1','AX','L1','L2','CDD')
 #FITS=('Ar40H1:parabolic','Ar40AX:parabolic','Ar40L1:parabolic','Ar40L2:parabolic')
 #FITS=('Ar40H2:parabolic','Ar40H1:parabolic','Ar40AX:parabolic','Ar40L1:parabolic','Ar40L2:parabolic')
-FITS = ('Ar40H2:parabolic','Ar40H1:parabolic','Ar40AX:parabolic','Ar40L1:parabolic')
+FITS = ('Ar40H2:parabolic','Ar40H1:parabolic','Ar40L1:parabolic')
 #('Ar41:average_SEM','Ar40:parabolic','Ar39:parabolic','Ar38:linear','Ar37:linear','Ar36:parabolic','Ar35:linear')
 BASELINE_FITS=('average_SEM',)
 USE_WARM_CDD=False
 
-NCYCLES=6
-GENERATE_ICMFTABLE=False
+NCYCLES=3
+GENERATE_ICMFTABLE=True
 
 def main():
     info('unknown measurement script')
 
-    #activate_detectors(*ACTIVE_DETECTORS)
+    activate_detectors(*ACTIVE_DETECTORS)
 
     #if PEAK_CENTER_BEFORE:
     #    peak_center(detector=PEAK_CENTER_DETECTOR,isotope=PEAK_CENTER_ISOTOPE)
@@ -75,17 +75,16 @@ def main():
     #multicollect on active detectors
     #multicollect(ncounts=MULTICOLLECT_COUNTS, integration_time=1)
     if GENERATE_ICMFTABLE:
-        generate_ic_mftable(('H2','H1','AX','L1'), peak_center_config='ic_peakhop')
+        generate_ic_mftable(('H2','H1','L1'), peak_center_config='ic_peakhop', n=3)
         set_time_zero()
 
-    #peak_hop(ncycles=NCYCLES, hops=hops, mftable='ic_mftable')
-    peak_hop(ncycles=NCYCLES, hops=hops, mftable='argon')
+    peak_hop(ncycles=NCYCLES, hops=hops, mftable='ic_mftable')
+    #peak_hop(ncycles=NCYCLES, hops=hops, mftable='argon')
 
     if BASELINE_AFTER:
         #necessary if peak hopping
         define_detectors('Ar40','H2')
         define_detectors('Ar39','H1')
-        define_detectors('Ar38','AX')
         define_detectors('Ar37','L1')
 
         baselines(ncounts=BASELINE_COUNTS,mass=BASELINE_MASS, detector=BASELINE_DETECTOR,
