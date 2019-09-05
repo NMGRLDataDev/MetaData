@@ -53,7 +53,7 @@ def main():
         generate_ic_mftable(('H1','AX','L2'), peak_center_config='ic_peakhop')
         set_time_zero()
 
-    peak_hop(ncycles=NCYCLES, hops=hops, mftable='mftable')
+    peak_hop(ncycles=NCYCLES, hops=hops, mftable='ic_mftable')
 
 
     if BASELINE_AFTER:
