@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26666,
+            "identifier": "26666",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -15,7 +15,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26667,
+            "identifier": "26667",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -27,7 +27,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26668,
+            "identifier": "26668",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -39,7 +39,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26669,
+            "identifier": "26669",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -51,7 +51,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26670,
+            "identifier": "26670",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -63,7 +63,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26671,
+            "identifier": "26671",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
