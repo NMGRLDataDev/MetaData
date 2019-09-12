@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26598,
+            "identifier": "26598",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -15,7 +15,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67110,
+            "identifier": "67110",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -27,7 +27,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26599,
+            "identifier": "26599",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -39,7 +39,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67111,
+            "identifier": "67111",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -51,7 +51,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26600,
+            "identifier": "26600",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -63,7 +63,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67112,
+            "identifier": "67112",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -75,7 +75,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26601,
+            "identifier": "26601",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -87,7 +87,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67113,
+            "identifier": "67113",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -99,7 +99,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26602,
+            "identifier": "26602",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -111,7 +111,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67114,
+            "identifier": "67114",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -123,7 +123,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26603,
+            "identifier": "26603",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -135,7 +135,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67115,
+            "identifier": "67115",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -147,7 +147,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26604,
+            "identifier": "26604",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -159,7 +159,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67116,
+            "identifier": "67116",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -171,7 +171,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26605,
+            "identifier": "26605",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -183,7 +183,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67117,
+            "identifier": "67117",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -195,7 +195,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26606,
+            "identifier": "26606",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -207,7 +207,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26607,
+            "identifier": "26607",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -219,7 +219,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67119,
+            "identifier": "67119",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -231,7 +231,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26608,
+            "identifier": "26608",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -243,7 +243,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67120,
+            "identifier": "67120",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -255,7 +255,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 26609,
+            "identifier": "26609",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -267,7 +267,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67121,
+            "identifier": "67121",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
@@ -279,7 +279,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67118,
+            "identifier": "67118",
             "j": 0.00175,
             "j_err": 1.75e-06,
             "mean_j": 0,
