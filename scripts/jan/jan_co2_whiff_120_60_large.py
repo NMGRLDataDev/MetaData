@@ -39,15 +39,14 @@ whiff:
       teststr: Ar40.cur>1000
       attr: Ar40
     - action: run_remainder
-      teststr: Ar40.cur<=175
+      teststr: Ar40.cur<=150
       attr: Ar40
     - action: run_pipette
       teststr: Ar40.cur>300
       attr: Ar40
     - action: run_chamber_split
-      teststr: Ar40.cur>=200
+      teststr: Ar40.cur>150
       attr: Ar40
-
 '''
 
 
