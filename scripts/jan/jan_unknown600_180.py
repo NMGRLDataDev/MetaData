@@ -3,7 +3,7 @@
 baseline:
   after: true
   before: false
-  counts: 120
+  counts: 180
   detector: H1
   mass: 34.2
   settling_time: 10
@@ -19,7 +19,7 @@ multicollect:
   detector: H1
   isotope: Ar40
 peakcenter:
-  after: false
+  after: true
   before: false
   detector: H1
   detectors:
