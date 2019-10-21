@@ -36,16 +36,16 @@ whiff:
   abbreviated_count_ratio: 0.25
   conditionals:
     - action: run_remainder
-      teststr: Ar40.cur<=175
+      teststr: Ar40.cur<=150
       attr: Ar40
     - action: run_pipette
       teststr: Ar40.cur>500
       attr: Ar40
     - action: run_chamber_split
-      teststr: Ar40.cur>=300
+      teststr: Ar40.cur>=250
       attr: Ar40
     - action: pump
-      teststr: Ar40.cur>175
+      teststr: Ar40.cur>150
       attr: Ar40
 '''
 
