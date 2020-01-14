@@ -60,7 +60,7 @@ def main():
     open('J')
     sleep(30)
     close('J')
-    open('FC')
+    open('FC', cancel_on_failed_actuation=False, ntries=20)
 
     sleep(cleanup)
     stop_response_recorder()
