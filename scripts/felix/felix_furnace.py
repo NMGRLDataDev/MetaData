@@ -78,7 +78,7 @@ def do_extraction():
 
     if extract_value >= 1200:
         disable()
-    elif extract_value >= 700:
+    elif extract_value >= 800:
         extract(400)
     else:
         extract(300)
