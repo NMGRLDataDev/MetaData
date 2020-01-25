@@ -6,10 +6,10 @@ baseline:
   counts: 40
   detector: H1
   mass: 34.2
-  settling_time: 20.0
+  settling_time: 15.0
 default_fits: nominal_linear
 equilibration:
-  eqtime: 20.0
+  eqtime: 15.0
   inlet: R
   inlet_delay: 3
   outlet: O
