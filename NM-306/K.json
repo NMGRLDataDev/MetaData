@@ -607,8 +607,8 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "26862",
-            "j": 0.0037965953282780704,
-            "j_err": 1.8729356091550598e-06,
+            "j": 0.00379653631207164,
+            "j_err": 1.933340101941295e-06,
             "mean_j": 0.003796536312071639,
             "mean_j_err": 1.936264996822594e-06,
             "options": {
@@ -652,39 +652,139 @@
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 9.998499887483122e-12
+            },
             "identifier": "67378",
-            "j": 0.0035,
-            "j_err": 3.5e-06,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0038293292250964578,
+            "j_err": 8.790321808637432e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
+                "monitor_reference": "FC Min",
+                "monte_carlo_ntrials": 50000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
+            },
             "position": 15,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
-            "analyses": [],
-            "decay_constants": {},
+            "analyses": [
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-01",
+                    "uuid": "03807f66-f0ba-4357-bb87-0a521edcc2fa"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-02",
+                    "uuid": "11a82e54-e258-40ab-949d-a6c4019f63ef"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-03",
+                    "uuid": "2209adb9-18fd-4a50-b64b-99a6870c2982"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-04",
+                    "uuid": "0e44be9d-62ec-4dd6-b570-c8a7d22c6766"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-05",
+                    "uuid": "252297c2-1b9b-4bd3-a965-d843a75c4d06"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-06",
+                    "uuid": "c43cbe14-17ad-4535-b8b5-9ab1655cf676"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-07",
+                    "uuid": "506ffbb1-f6fe-424e-8220-c2af2c791267"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-08",
+                    "uuid": "39f8f767-bd20-401e-beb2-181b5b21b4ee"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-09",
+                    "uuid": "6eb0091a-c6a5-4b49-a94c-c64dab5e6e05"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-10",
+                    "uuid": "3b3aeeb9-75d7-4ff4-839f-992911b606df"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-11",
+                    "uuid": "b1d37afe-3e45-4e91-8a96-3ac5ccdfd547"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "26863-12",
+                    "uuid": "ad2bb781-a0de-408a-a40d-357f342e05dd"
+                }
+            ],
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 9.998499887483122e-12
+            },
             "identifier": "26863",
-            "j": 0.0035,
-            "j_err": 3.5e-06,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0038364421420201823,
+            "j_err": 9.887904046261794e-06,
+            "mean_j": 0.0038364421420201906,
+            "mean_j_err": 9.894989623022077e-06,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
+                "monitor_reference": "FC Min",
+                "monte_carlo_ntrials": 50000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
+            },
             "position": 16,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 9.998499887483122e-12
+            },
             "identifier": "67379",
-            "j": 0.0035,
-            "j_err": 3.5e-06,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0038365316604447247,
+            "j_err": 8.780657547969484e-06,
+            "mean_j": 0.0,
+            "mean_j_err": 0.0,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
+                "monitor_reference": "FC Min",
+                "monte_carlo_ntrials": 50000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
+            },
             "position": 17,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
@@ -779,8 +879,8 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "26864",
-            "j": 0.003815254642168517,
-            "j_err": 3.6716892705163904e-06,
+            "j": 0.003816219080735932,
+            "j_err": 4.5090854010738e-06,
             "mean_j": 0.0038162190807359297,
             "mean_j_err": 4.510435291118277e-06,
             "options": {
