@@ -17,10 +17,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 3,
             "position_jerr": 0.0
@@ -42,10 +42,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 10,
             "position_jerr": 0.0
@@ -67,10 +67,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 11,
             "position_jerr": 0.0
@@ -92,10 +92,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 12,
             "position_jerr": 0.0
@@ -117,10 +117,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 13,
             "position_jerr": 0.0
@@ -142,10 +142,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 14,
             "position_jerr": 0.0
@@ -191,17 +191,17 @@
             "j": 0.0038246404461921156,
             "j_err": Infinity,
             "mean_j": 0.003824640446179343,
-            "mean_j_err": 7.766082731575204e-07,
+            "mean_j_err": 2.0980125708499558e-06,
             "options": {
                 "model_kind": "Bowl",
                 "monitor_age": 28.201,
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 17,
             "position_jerr": 0.0
@@ -247,17 +247,17 @@
             "j": 0.003813073919274131,
             "j_err": Infinity,
             "mean_j": 0.003813073919263828,
-            "mean_j_err": 8.789720866568781e-07,
+            "mean_j_err": 2.9037590674664305e-06,
             "options": {
                 "model_kind": "Bowl",
                 "monitor_age": 28.201,
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 18,
             "position_jerr": 0.0
@@ -303,17 +303,17 @@
             "j": 0.0038067519050832693,
             "j_err": Infinity,
             "mean_j": 0.0038067519050754405,
-            "mean_j_err": 1.2435672275508476e-06,
+            "mean_j_err": 4.083856168097475e-06,
             "options": {
                 "model_kind": "Bowl",
                 "monitor_age": 28.201,
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 19,
             "position_jerr": 0.0
@@ -366,10 +366,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 20,
             "position_jerr": 0.0
@@ -415,17 +415,17 @@
             "j": 0.0037951707919026477,
             "j_err": Infinity,
             "mean_j": 0.003795170791889836,
-            "mean_j_err": 5.68993858902544e-07,
+            "mean_j_err": 9.161975591199353e-07,
             "options": {
                 "model_kind": "Bowl",
                 "monitor_age": 28.201,
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 21,
             "position_jerr": 0.0
@@ -471,17 +471,17 @@
             "j": 0.003823470304565266,
             "j_err": Infinity,
             "mean_j": 0.003823470304554965,
-            "mean_j_err": 1.1133641258205998e-06,
+            "mean_j_err": 4.730062879792923e-06,
             "options": {
                 "model_kind": "Bowl",
                 "monitor_age": 28.201,
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 22,
             "position_jerr": 0.0
@@ -527,17 +527,17 @@
             "j": 0.0038122426800367704,
             "j_err": Infinity,
             "mean_j": 0.0038122426800289376,
-            "mean_j_err": 3.8879188325149264e-07,
+            "mean_j_err": 4.7198882525377785e-07,
             "options": {
                 "model_kind": "Bowl",
                 "monitor_age": 28.201,
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 23,
             "position_jerr": 0.0
@@ -583,17 +583,17 @@
             "j": 0.0038157584428901176,
             "j_err": Infinity,
             "mean_j": 0.003815758442879818,
-            "mean_j_err": 1.7448096353132683e-06,
+            "mean_j_err": 5.604412318428705e-06,
             "options": {
                 "model_kind": "Bowl",
                 "monitor_age": 28.201,
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 24,
             "position_jerr": 0.0
@@ -615,10 +615,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 1,
             "position_jerr": 0.0
@@ -640,10 +640,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 2,
             "position_jerr": 0.0
@@ -665,10 +665,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 8,
             "position_jerr": 0.0
@@ -690,10 +690,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 9,
             "position_jerr": 0.0
@@ -715,10 +715,10 @@
                 "monitor_material": "FC-2",
                 "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
+                "monte_carlo_ntrials": 10000,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": true,
+                "use_weighted_fit": true
             },
             "position": 5,
             "position_jerr": 0.0
