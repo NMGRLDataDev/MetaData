@@ -17,8 +17,8 @@ INLET= 'R'
 OUTLET= 'O'
 EQ_DELAY= 3.0
 
-ACTIVE_DETECTORS = ('H1','AX','L2')
-FITS = ('Ar40H1:average_SEM','Ar40AX:average_SEM','Ar40L2:average_SEM')
+ACTIVE_DETECTORS = ('H2','H1','AX','L1','L2','CDD')
+FITS = ('Ar40H2:average_SEM','Ar40H1:average_SEM','Ar40AX:average_SEM','Ar40L1:average_SEM','Ar40L2:average_SEM','Ar40CDD:average_SEM')
 BASELINE_FITS=('average_SEM',)
 
 NCYCLES=6
@@ -59,9 +59,12 @@ def main():
 
     if BASELINE_AFTER:
         #necessary if peak hopping
+        define_detectors('Ar41','H2')
         define_detectors('Ar40','H1')
         define_detectors('Ar39','AX')
+        define_detectors('Ar38','L1')
         define_detectors('Ar37','L2')
+        define_detectors('Ar36','CDD')
 
         baselines(ncounts=BASELINE_COUNTS,mass=BASELINE_MASS, detector=BASELINE_DETECTOR,
                   settling_time=BASELINE_SETTLING_TIME, use_dac=True)
