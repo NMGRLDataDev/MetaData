@@ -107,8 +107,8 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "67406",
-            "j": 0.003812513597324568,
-            "j_err": 4520702798854.338,
+            "j": 0.003814000561454378,
+            "j_err": 1.7578814254402483e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -120,7 +120,7 @@
                 "monte_carlo_ntrials": 10000,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": true,
-                "use_weighted_fit": true
+                "use_weighted_fit": false
             },
             "position": 13,
             "position_jerr": 0.0
@@ -132,8 +132,8 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "67407",
-            "j": 0.003812513597324568,
-            "j_err": 4520702798854.338,
+            "j": 0.003814000561454378,
+            "j_err": 1.7578814254402483e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -145,7 +145,7 @@
                 "monte_carlo_ntrials": 10000,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": true,
-                "use_weighted_fit": true
+                "use_weighted_fit": false
             },
             "position": 14,
             "position_jerr": 0.0
@@ -524,9 +524,9 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "26884",
-            "j": 0.003812513597324568,
-            "j_err": 4520702798854.338,
-            "mean_j": 0.0038125059234414447,
+            "j": 0.003814000561454378,
+            "j_err": 1.7578814254402483e-06,
+            "mean_j": 0.0038122426800289376,
             "mean_j_err": 4.7198882525377785e-07,
             "options": {
                 "model_kind": "Bracketing",
@@ -537,7 +537,7 @@
                 "monte_carlo_ntrials": 10000,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": true,
-                "use_weighted_fit": true
+                "use_weighted_fit": false
             },
             "position": 23,
             "position_jerr": 0.0
@@ -580,9 +580,9 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "26885",
-            "j": 0.003812513597324568,
-            "j_err": 4520702798854.338,
-            "mean_j": 0.0038135955590689915,
+            "j": 0.003814000561454378,
+            "j_err": 1.7578814254402483e-06,
+            "mean_j": 0.003815758442879818,
             "mean_j_err": 5.604412318428705e-06,
             "options": {
                 "model_kind": "Bracketing",
@@ -593,7 +593,7 @@
                 "monte_carlo_ntrials": 10000,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": true,
-                "use_weighted_fit": true
+                "use_weighted_fit": false
             },
             "position": 24,
             "position_jerr": 0.0
