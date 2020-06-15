@@ -15,7 +15,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 67449,
+            "identifier": "67449",
             "j": 0.04,
             "j_err": 0.004,
             "mean_j": 0,
