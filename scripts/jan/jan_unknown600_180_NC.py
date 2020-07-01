@@ -3,10 +3,10 @@
 baseline:
   after: true
   before: false
-  counts: 600
+  counts: 60
   detector: H1
   mass: 34.2
-  settling_time: 120
+  settling_time: 15
 default_fits: nominal
 equilibration:
   eqtime: 1.0
