@@ -29,7 +29,7 @@ def main():
     #open(name="M", description="Microbone to Getter NP-10H")
     open(name="K", description="Microbone to Getter NP-10C")
     sleep(duration=10.0)
-    close(name="S", description="Microbone to Inlet Pipette")
+    #close(name="S", description="Microbone to Inlet Pipette")
 #===============================================================================
 # POST EQUILIBRATION SCRIPT jan_pump_extraction_line.py
 #===============================================================================
@@ -55,5 +55,5 @@ def main():
 #===============================================================================
 def main():
     info('Pumping spectrometer')
-    open(name='O')
+    open(name='O', cancel_on_failed_actuation=False)
     
