@@ -27,9 +27,9 @@ def main():
     close(name="U", description="Microbone to Turbo")
     sleep(duration=3.0)
     open(name="K", description="Microbone to Getter NP-10C")
-    sleep(duration=10.0)
+    sleep(duration=20.0)
     close(name="M", description="Microbone to Getter NP-10H")
-    sleep(duration=2.0)
+    sleep(duration=3.0)
     #close(name="S", description="Microbone to Inlet Pipette")
 #===============================================================================
 # POST EQUILIBRATION SCRIPT jan_pump_extraction_line.py
