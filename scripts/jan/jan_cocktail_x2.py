@@ -2,7 +2,7 @@
 # EXTRACTION SCRIPT jan_cocktail_x2.py
 #===============================================================================
 '''
-modifier: 02
+modifier: 03
 eqtime: 12
 '''
 def main():
@@ -42,5 +42,5 @@ def main():
 #===============================================================================
 def main():
     info('Pumping spectrometer')
-    open(name='O')
+    open(name='O', cancel_on_failed_actuation=False)
     
