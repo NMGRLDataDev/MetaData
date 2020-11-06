@@ -16,7 +16,7 @@ equilibration:
   use_extraction_eqtime: true
   post_equilibration_delay: 0
 multicollect:
-  counts: 3600
+  counts: 280
   detector: H1
   isotope: Ar40
 peakcenter:
