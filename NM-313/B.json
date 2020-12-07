@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 68229,
+            "identifier": "68229",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
@@ -15,7 +15,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 68230,
+            "identifier": "68230",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
@@ -27,7 +27,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 68231,
+            "identifier": "68231",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
@@ -39,7 +39,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 68232,
+            "identifier": "68232",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
@@ -51,7 +51,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 68233,
+            "identifier": "68233",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
@@ -63,7 +63,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 27252,
+            "identifier": "27252",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
@@ -75,7 +75,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 27253,
+            "identifier": "27253",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
@@ -87,7 +87,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 27254,
+            "identifier": "27254",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
@@ -99,7 +99,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 27255,
+            "identifier": "27255",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
@@ -111,7 +111,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 27256,
+            "identifier": "27256",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
@@ -123,7 +123,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 27257,
+            "identifier": "27257",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
@@ -135,7 +135,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 68228,
+            "identifier": "68228",
             "j": 0.0012,
             "j_err": 1.2e-06,
             "mean_j": 0,
