@@ -12,7 +12,6 @@ def main():
     gosub('jan:EvacPipette1')
     gosub('common:FillPipette1')
     gosub('jan:PrepareForAirShotExpansion')
-    open(name="T", description="Microbone to CO2 Laser")
     gosub('common:ExpandPipette1')
     sleep(duration=2.0)
     close(name="S", description="Microbone to Inlet Pipette")
@@ -41,5 +40,5 @@ def main():
 #===============================================================================
 def main():
     info('Pumping spectrometer')
-    open(name='O')
+    open(name='O', cancel_on_failed_actuation=False)
     

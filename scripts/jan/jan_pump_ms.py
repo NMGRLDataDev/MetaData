@@ -1,4 +1,4 @@
 def main():
     info('Pumping spectrometer')
-    open(name='O')
+    open(name='O', cancel_on_failed_actuation=False)
     

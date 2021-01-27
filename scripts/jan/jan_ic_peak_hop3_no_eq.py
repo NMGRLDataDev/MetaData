@@ -48,12 +48,13 @@ def main():
     set_baseline_fits(*BASELINE_FITS)
 
     sleep(0.5)
-
+    mftable_name = 'mftable'
     if GENERATE_ICMFTABLE:
+        mftable_name = 'ic_mftable'
         generate_ic_mftable(('H1','AX','L2'), peak_center_config='ic_peakhop')
         set_time_zero()
 
-    peak_hop(ncycles=NCYCLES, hops=hops, mftable='mftable')
+    peak_hop(ncycles=NCYCLES, hops=hops, mftable=mftable_name)
 
 
     if BASELINE_AFTER:

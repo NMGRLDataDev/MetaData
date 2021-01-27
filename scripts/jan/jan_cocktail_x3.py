@@ -2,7 +2,7 @@
 # EXTRACTION SCRIPT jan_cocktail_x3.py
 #===============================================================================
 '''
-modifier: 02
+modifier: 03
 '''
 def main():
     info("Jan Cocktail Pipette x1")
@@ -44,5 +44,5 @@ def main():
 #===============================================================================
 def main():
     info('Pumping spectrometer')
-    open(name='O')
+    open(name='O', cancel_on_failed_actuation=False)
     

@@ -60,7 +60,7 @@ def main():
     open('J')
     sleep(30)
     close('J')
-    open('FC')
+    open('FC', cancel_on_failed_actuation=False, ntries=20)
 
     sleep(cleanup)
     stop_response_recorder()
@@ -78,7 +78,7 @@ def do_extraction():
 
     if extract_value >= 1200:
         disable()
-    elif extract_value >= 700:
+    elif extract_value >= 800:
         extract(400)
     else:
         extract(300)
@@ -96,5 +96,5 @@ def main():
 #===============================================================================
 def main():
 	info('Pumping spectrometer')
-	open(name='V')
+	open(name='V', cancel_on_failed_actuation=False)
 	

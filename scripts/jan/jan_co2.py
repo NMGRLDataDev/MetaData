@@ -2,7 +2,7 @@
 # EXTRACTION SCRIPT jan_co2.py
 #===============================================================================
 '''
-eqtime: 12
+eqtime: 15
 '''
 def main():
     info('Jan CO2 laser analysis')
@@ -35,5 +35,5 @@ def main():
 #===============================================================================
 def main():
     info('Pumping spectrometer')
-    open(name='O')
+    open(name='O', cancel_on_failed_actuation=False)
     

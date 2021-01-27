@@ -6,10 +6,10 @@ baseline:
   counts: 40
   detector: H1
   mass: 34.2
-  settling_time: 20.0
+  settling_time: 15.0
 default_fits: nominal_linear
 equilibration:
-  eqtime: 20.0
+  eqtime: 15.0
   inlet: R
   inlet_delay: 3
   outlet: O
@@ -35,17 +35,17 @@ whiff:
   counts: 1
   abbreviated_count_ratio: 0.25
   conditionals:
+    - action: pump
+      teststr: Ar40.cur>1000
+      attr: Ar40
     - action: run_remainder
-      teststr: Ar40.cur<=175
+      teststr: Ar40.cur<=150
       attr: Ar40
     - action: run_pipette
-      teststr: Ar40.cur>500
+      teststr: Ar40.cur>300
       attr: Ar40
     - action: run_chamber_split
-      teststr: Ar40.cur>=300
-      attr: Ar40
-    - action: pump
-      teststr: Ar40.cur>175
+      teststr: Ar40.cur>150
       attr: Ar40
 '''
 
@@ -70,13 +70,13 @@ def main():
     position_magnet(mx.multicollect.isotope, detector=mx.multicollect.detector)
 
     #gas is staged behind inlet
-    
+
     #make a pipette volume
     close('S')
-    
+
     meqtime = mx.whiff.eqtime
     equil(meqtime, False)
-    
+
     result = whiff(ncounts=mx.whiff.counts, conditionals=mx.whiff.conditionals)
     info('Whiff result={}'.format(result))
     wab=1.0
@@ -100,7 +100,7 @@ def main():
         sleep(3)
         close('T')
         sleep(3)
-        
+
         # pump out microbone
         open('U')
         sleep(15)
@@ -108,25 +108,25 @@ def main():
         sleep(1)
         open('T')
         equil(eqtime)
-        
+
     elif result=='pump':
         reset_measurement(ACTIVE_DETECTORS)
         activate_detectors(*ACTIVE_DETECTORS)
-        
+
         #pump out spectrometer and sniff volume
         open('R')
         open(mx.equilibration.outlet)
         sleep(15)
         #close(mx.equilibration.outlet)
-        
+
         close('R')
         open('S')
         sleep(3)
         close('T')
         sleep(3)
-        
+
         equil(eqtime)
-        
+
     multicollect(ncounts=mx.multicollect.counts*wab, integration_time=1)
     if mx.baseline.after:
         baselines(ncounts=mx.baseline.counts*wab, mass=mx.baseline.mass, detector=mx.baseline.detector,

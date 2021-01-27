@@ -12,9 +12,9 @@ def main():
     gosub('felix:PrepareForAirShot')
     
     #open(name='N')
-    open(name='Q')
-    open(name='D')
-    #open(name='B')
+    close(name='Q')
+    close(name="D", description="Bone to CO2 Laser")
+    close(name='B')
     
     gosub('common:EvacPipette2')
     gosub('common:FillPipette2')
@@ -22,8 +22,8 @@ def main():
     gosub('common:ExpandPipette2')
     
     #close(name='B')
-    close(name='Q')
-    close(name='E')
+    #close(name='Q')
+    #close(name='E')
     #close(name='D')
     #close(name='N')
     close(description='Outer Pipette 2')
@@ -43,5 +43,5 @@ def main():
 #===============================================================================
 def main():
 	info('Pumping spectrometer')
-	open(name='V')
+	open(name='V', cancel_on_failed_actuation=False)
 	
